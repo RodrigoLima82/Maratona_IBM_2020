@@ -1,0 +1,1 @@
+{"fields":[{"key":"name","type":"string","is_array":false,"is_searchable_across_types":false},{"key":"asset_ref","type":"string","is_array":false,"is_searchable_across_types":false}],"relationships":[],"name":"job","version":1}
