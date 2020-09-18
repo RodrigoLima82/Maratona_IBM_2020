@@ -1,0 +1,377 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-49",
+  "name" : "train_50_1.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "Bonito e com ótimo acabamento e eletrônica embarcada, o Fiat 500 impressiona e é perfeito para condução esportiva. Com o Fiat 500 A condução urbana é perfeita e ele é ágil como um kart e ele bem econômico, chegando a 12 Km/L na cidade.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600012218000,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 114,
+    "text" : "Bonito e com ótimo acabamento e eletrônica embarcada, o Fiat 500 impressiona e é perfeito para condução esportiva.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 6,
+      "text" : "Bonito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 7,
+      "end" : 8,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 9,
+      "end" : 12,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 13,
+      "end" : 18,
+      "text" : "ótimo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 19,
+      "end" : 29,
+      "text" : "acabamento",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 30,
+      "end" : 31,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 32,
+      "end" : 42,
+      "text" : "eletrônica",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 43,
+      "end" : 52,
+      "text" : "embarcada",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 52,
+      "end" : 53,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 54,
+      "end" : 55,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 56,
+      "end" : 60,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 61,
+      "end" : 64,
+      "text" : "500",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 65,
+      "end" : 76,
+      "text" : "impressiona",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 77,
+      "end" : 78,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 79,
+      "end" : 80,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 81,
+      "end" : 89,
+      "text" : "perfeito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 90,
+      "end" : 94,
+      "text" : "para",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 95,
+      "end" : 103,
+      "text" : "condução",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 104,
+      "end" : 113,
+      "text" : "esportiva",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 113,
+      "end" : 114,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 115,
+    "end" : 235,
+    "text" : "Com o Fiat 500 A condução urbana é perfeita e ele é ágil como um kart e ele bem econômico, chegando a 12 Km/L na cidade.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 115,
+      "end" : 118,
+      "text" : "Com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 119,
+      "end" : 120,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 121,
+      "end" : 125,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 126,
+      "end" : 129,
+      "text" : "500",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 130,
+      "end" : 131,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 132,
+      "end" : 140,
+      "text" : "condução",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 141,
+      "end" : 147,
+      "text" : "urbana",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 148,
+      "end" : 149,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 150,
+      "end" : 158,
+      "text" : "perfeita",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 159,
+      "end" : 160,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 161,
+      "end" : 164,
+      "text" : "ele",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 165,
+      "end" : 166,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 167,
+      "end" : 171,
+      "text" : "ágil",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 172,
+      "end" : 176,
+      "text" : "como",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 177,
+      "end" : 179,
+      "text" : "um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 180,
+      "end" : 184,
+      "text" : "kart",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t16",
+      "begin" : 185,
+      "end" : 186,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t17",
+      "begin" : 187,
+      "end" : 190,
+      "text" : "ele",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t18",
+      "begin" : 191,
+      "end" : 194,
+      "text" : "bem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t19",
+      "begin" : 195,
+      "end" : 204,
+      "text" : "econômico",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t20",
+      "begin" : 204,
+      "end" : 205,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t21",
+      "begin" : 206,
+      "end" : 214,
+      "text" : "chegando",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t22",
+      "begin" : 215,
+      "end" : 216,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t23",
+      "begin" : 217,
+      "end" : 219,
+      "text" : "12",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t24",
+      "begin" : 220,
+      "end" : 224,
+      "text" : "Km/L",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t25",
+      "begin" : 225,
+      "end" : 227,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t26",
+      "begin" : 228,
+      "end" : 234,
+      "text" : "cidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t27",
+      "begin" : 234,
+      "end" : 235,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 56,
+    "end" : 64,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 121,
+    "end" : 129,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 195,
+    "end" : 204,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 217,
+    "end" : 224,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s1-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m2", "s1-m1" ]
+  }, {
+    "id" : "s1-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m3", "s1-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

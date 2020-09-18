@@ -1,0 +1,249 @@
+// buscando o tamanho do array de entidades
+msg.payload.recommendation = msg.features.entities.length;
+
+// variavel para comparar os valores de sentimento
+valor_sentimento = 999;
+
+// variavel para armazenar a entidade com menor sentimento
+entidade_menor_sentimento = "";
+
+// funcao de recomendacao
+    if (msg.req.body.car.toUpperCase() == "TORO" || msg.req.body.car.toUpperCase() == "FIAT TORO"){
+
+        // percorrendo todas as entidades para descobrir a com maior sentimento negativo
+        for (var i=0; i<msg.features.entities.length; i++)
+        {
+            // verifica o sentimento da entidade
+            if (msg.features.entities[i].sentiment.label == "negative"){
+
+                // verifica se o score da entidade atual é menor da entidade anterior
+                if (msg.features.entities[i].sentiment.score < valor_sentimento){// && (Math.abs(msg.features.entities[i].sentiment.score) - Math.abs(valor_sentimento)) < 0.1){
+                    entidade_menor_sentimento = msg.features.entities[i].type;
+                    valor_sentimento = msg.features.entities[i].sentiment.score;
+                }
+                
+            }
+            
+            if (entidade_menor_sentimento == "SEGURANCA")
+                msg.payload.recommendation = "RENEGADE";
+                
+            else if (entidade_menor_sentimento == "CONSUMO")
+                msg.payload.recommendation = "RENEGADE";
+            
+            else if (entidade_menor_sentimento == "DESEMPENHO")
+                msg.payload.recommendation = "RENEGADE";
+
+            else if (entidade_menor_sentimento == "MANUTENCAO")
+                msg.payload.recommendation = "RENEGADE";
+
+            else if (entidade_menor_sentimento == "CONFORTO")
+                msg.payload.recommendation = "RENEGADE";
+
+            else if (entidade_menor_sentimento == "DESIGN")
+                msg.payload.recommendation = "RENEGADE";
+
+            else if (entidade_menor_sentimento == "ACESSORIOS")
+                msg.payload.recommendation = "RENEGADE";
+
+            else
+                msg.payload.recommendation = "";
+        }
+
+    }
+
+
+
+
+
+
+
+msg.payload = msg.features;
+
+// variavel que indica se entra para recomendacao
+var flag_recomenda = 0;
+
+// variavel para identificar entidade com maior prioridade
+var flag_prioridade = 0;
+
+// variavel para comparar os valores de sentimento
+var vl_sentimento = 999;
+
+// variavel para armazenar a entidade com menor sentimento
+var ent_menor = 999;
+
+// carro recomendado
+var car_recommendation = "";
+
+
+var lista_negativos = [];
+
+// se existir entidades
+if (msg.payload.entities.length > 0){
+
+    for (var i=0; i<msg.features.entities.length; i++)
+    {
+        // verifica o sentimento da entidade
+        if (msg.features.entities[i].sentiment.label == "negative"){
+            
+            // adiciona as entidades negativas em uma lista
+            //lista_negativos.push(msg.features.entities[i].type);
+            
+            // Entra para recomendacao
+            flag_recomenda = 1;
+
+        }
+    }
+    if (flag_recomenda == 1){
+        
+        // funcao de recomendacao
+        if (msg.req.body.car.toUpperCase() == "TORO" || msg.req.body.car.toUpperCase() == "FIAT TORO"){
+            msg.payload.recommendation = "RENEGADE";
+        }
+        else if (msg.req.body.car.toUpperCase() == "DUCATO" || msg.req.body.car.toUpperCase() == "FIAT DUCATO"){
+            msg.payload.recommendation = "FIORINO";
+        }     
+        else if (msg.req.body.car.toUpperCase() == "FIORINO" || msg.req.body.car.toUpperCase() == "FIAT FIORINO"){
+            msg.payload.recommendation = "CRONOS";
+        }     
+        else if (msg.req.body.car.toUpperCase() == "CRONOS" || msg.req.body.car.toUpperCase() == "FIAT CRONOS"){
+            msg.payload.recommendation = "LINEA";
+        }     
+        else if (msg.req.body.car.toUpperCase() == "FIAT 500"){
+            msg.payload.recommendation = "LINEA";
+        }     
+        else if (msg.req.body.car.toUpperCase() == "MAREA" || msg.req.body.car.toUpperCase() == "FIAT MAREA"){
+            msg.payload.recommendation = "LINEA";
+        }     
+        else if (msg.req.body.car.toUpperCase() == "LINEA" || msg.req.body.car.toUpperCase() == "FIAT LINEA"){
+            msg.payload.recommendation = "CRONOS";
+        }     
+        else if (msg.req.body.car.toUpperCase() == "ARGO" || msg.req.body.car.toUpperCase() == "FIAT ARGO"){
+            msg.payload.recommendation = "CRONOS";
+        }     
+        else if (msg.req.body.car.toUpperCase() == "RENEGADE" || msg.req.body.car.toUpperCase() == "JEEP RENEGADE"){
+            msg.payload.recommendation = "CRONOS";
+        }     
+        else
+            msg.payload.recommendation = "";        
+        
+        //msg.payload.recommendation = lista_negativos[0];
+    }
+}
+else
+     msg.payload.recommendation = "";    
+
+
+return msg;
+
+/*    
+    
+    
+    if (flag_recomenda == 1){
+        
+        // verifica a entidade com menor score
+        for (var j=0; j<msg.features.entities.length; j++)
+        {
+            // verifica se a entidade tem score negativo
+            if (msg.features.entities[j].sentiment.label == "negative"){
+                
+                // adiciona as entidades negativas em uma lista
+                lista_negativos = array.push(msg.features.entities[j].type);
+                
+            }
+        }
+        
+        // seta a entidade encontrada
+        //menor_entidade = 
+        
+        msg.payload.recommendation = lista_negativos[0];
+
+        
+    }
+    
+}
+else
+     msg.payload.recommendation = "";
+
+
+//msg.payload.recommendation = car_recommendation;
+
+return msg;
+
+
+/*
+        // funcao de recomendacao
+        if (msg.req.body.car.toUpperCase() == "TORO" || msg.req.body.car.toUpperCase() == "FIAT TORO"){
+            msg.payload.recommendation = "RENEGADE";
+        }
+        else if (msg.req.body.car.toUpperCase() == "DUCATO" || msg.req.body.car.toUpperCase() == "FIAT DUCATO"){
+            msg.payload.recommendation = "FIORINO";
+        }     
+        else if (msg.req.body.car.toUpperCase() == "FIORINO" || msg.req.body.car.toUpperCase() == "FIAT FIORINO"){
+            msg.payload.recommendation = "CRONOS";
+        }     
+        else if (msg.req.body.car.toUpperCase() == "CRONOS" || msg.req.body.car.toUpperCase() == "FIAT CRONOS"){
+            msg.payload.recommendation = "LINEA";
+        }     
+        else if (msg.req.body.car.toUpperCase() == "FIAT 500"){
+            msg.payload.recommendation = "LINEA";
+        }     
+        else if (msg.req.body.car.toUpperCase() == "MAREA" || msg.req.body.car.toUpperCase() == "FIAT MAREA"){
+            msg.payload.recommendation = "LINEA";
+        }     
+        else if (msg.req.body.car.toUpperCase() == "LINEA" || msg.req.body.car.toUpperCase() == "FIAT LINEA"){
+            msg.payload.recommendation = "CRONOS";
+        }     
+        else if (msg.req.body.car.toUpperCase() == "ARGO" || msg.req.body.car.toUpperCase() == "FIAT ARGO"){
+            msg.payload.recommendation = "CRONOS";
+        }     
+        else if (msg.req.body.car.toUpperCase() == "RENEGADE" || msg.req.body.car.toUpperCase() == "JEEP RENEGADE"){
+            msg.payload.recommendation = "CRONOS";
+        }     
+        else
+            msg.payload.recommendation = "";
+    }
+
+}
+else
+    msg.payload.recommendation = "";
+
+*/
+
+
+/*
+                
+                
+                // verifica o score dessa entidade com o valor armazenado
+                if (msg.features.entities[j].sentiment.score < vl_sentimento){
+                    // seta a primeira entidade do array como menor
+                    ent_menor = j;
+                    vl_sentimento = msg.features.entities[j].sentiment.score;
+                }
+                // se for igual ou a diferenca for menor que 0.1
+                else if (msg.features.entities[j].sentiment.score == vl_sentimento || (Math.abs(msg.features.entities[j].sentiment.score) - Math.abs(vl_sentimento)) < 0.1){
+                    
+                    // verifica a entidade por prioridade
+                    if (flag_prioridade === 0){
+                    
+                        if (msg.features.entities[j].type == "SEGURANCA")
+                            ent_menor = j;
+                        else if (msg.features.entities[j].type == "CONSUMO" && msg.features.entities[j-1].type == "SEGURANCA")
+                            ent_menor = j-1;
+                        else if (msg.features.entities[j].type == "CONSUMO" && msg.features.entities[j-1].type == "SEGURANCA")
+                            ent_menor = j;
+                        else if (msg.features.entities[j].type == "MANUTENCAO")
+                            ent_menor = j;
+                        else if (msg.features.entities[j].type == "CONFORTO")
+                            ent_menor = j;
+                        else if (msg.features.entities[j].type == "DESIGN")
+                            ent_menor = j;
+                        else if (msg.features.entities[j].type == "ACESSORIOS")
+                            ent_menor = j;
+                        
+                        flag_prioridade = 1;
+                    }
+                }
+                
+                
+                */
+

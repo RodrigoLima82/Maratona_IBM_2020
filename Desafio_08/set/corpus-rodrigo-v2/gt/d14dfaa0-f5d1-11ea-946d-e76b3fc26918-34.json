@@ -1,0 +1,490 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-34",
+  "name" : "train_35_1.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "O Marea HLX 2.0 tem comportamento dinâmico padrão de carro médio atual. No Marea O temido motor 2.0 20V [142CV] puxa o carro com extrema facilidade e entrega desempenho pra lá de suficiente, tendo como diferencial um ronco incomparável e empolgante!!! No Marea Os freios são extremamente eficientes, mas infelizmente alguns modelos não possuem ABS.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600011468169,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 71,
+    "text" : "O Marea HLX 2.0 tem comportamento dinâmico padrão de carro médio atual.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 1,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 2,
+      "end" : 7,
+      "text" : "Marea",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 8,
+      "end" : 11,
+      "text" : "HLX",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 12,
+      "end" : 15,
+      "text" : "2.0",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 16,
+      "end" : 19,
+      "text" : "tem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 20,
+      "end" : 33,
+      "text" : "comportamento",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 34,
+      "end" : 42,
+      "text" : "dinâmico",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 43,
+      "end" : 49,
+      "text" : "padrão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 50,
+      "end" : 52,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 53,
+      "end" : 58,
+      "text" : "carro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 59,
+      "end" : 64,
+      "text" : "médio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 65,
+      "end" : 70,
+      "text" : "atual",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 70,
+      "end" : 71,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 72,
+    "end" : 348,
+    "text" : "No Marea O temido motor 2.0 20V [142CV] puxa o carro com extrema facilidade e entrega desempenho pra lá de suficiente, tendo como diferencial um ronco incomparável e empolgante!!! No Marea Os freios são extremamente eficientes, mas infelizmente alguns modelos não possuem ABS.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 72,
+      "end" : 74,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 75,
+      "end" : 80,
+      "text" : "Marea",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 81,
+      "end" : 82,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 83,
+      "end" : 89,
+      "text" : "temido",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 90,
+      "end" : 95,
+      "text" : "motor",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 96,
+      "end" : 99,
+      "text" : "2.0",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 100,
+      "end" : 103,
+      "text" : "20V",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 104,
+      "end" : 105,
+      "text" : "[",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 105,
+      "end" : 110,
+      "text" : "142CV",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 110,
+      "end" : 111,
+      "text" : "]",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 112,
+      "end" : 116,
+      "text" : "puxa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 117,
+      "end" : 118,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 119,
+      "end" : 124,
+      "text" : "carro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 125,
+      "end" : 128,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 129,
+      "end" : 136,
+      "text" : "extrema",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 137,
+      "end" : 147,
+      "text" : "facilidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t16",
+      "begin" : 148,
+      "end" : 149,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t17",
+      "begin" : 150,
+      "end" : 157,
+      "text" : "entrega",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t18",
+      "begin" : 158,
+      "end" : 168,
+      "text" : "desempenho",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t19",
+      "begin" : 169,
+      "end" : 172,
+      "text" : "pra",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t20",
+      "begin" : 173,
+      "end" : 175,
+      "text" : "lá",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t21",
+      "begin" : 176,
+      "end" : 178,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t22",
+      "begin" : 179,
+      "end" : 189,
+      "text" : "suficiente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t23",
+      "begin" : 189,
+      "end" : 190,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t24",
+      "begin" : 191,
+      "end" : 196,
+      "text" : "tendo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t25",
+      "begin" : 197,
+      "end" : 201,
+      "text" : "como",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t26",
+      "begin" : 202,
+      "end" : 213,
+      "text" : "diferencial",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t27",
+      "begin" : 214,
+      "end" : 216,
+      "text" : "um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t28",
+      "begin" : 217,
+      "end" : 222,
+      "text" : "ronco",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t29",
+      "begin" : 223,
+      "end" : 235,
+      "text" : "incomparável",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t30",
+      "begin" : 236,
+      "end" : 237,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t31",
+      "begin" : 238,
+      "end" : 248,
+      "text" : "empolgante",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t32",
+      "begin" : 248,
+      "end" : 251,
+      "text" : "!!!",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t33",
+      "begin" : 252,
+      "end" : 254,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t34",
+      "begin" : 255,
+      "end" : 260,
+      "text" : "Marea",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t35",
+      "begin" : 261,
+      "end" : 263,
+      "text" : "Os",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t36",
+      "begin" : 264,
+      "end" : 270,
+      "text" : "freios",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t37",
+      "begin" : 271,
+      "end" : 274,
+      "text" : "são",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t38",
+      "begin" : 275,
+      "end" : 287,
+      "text" : "extremamente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t39",
+      "begin" : 288,
+      "end" : 298,
+      "text" : "eficientes",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t40",
+      "begin" : 298,
+      "end" : 299,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t41",
+      "begin" : 300,
+      "end" : 303,
+      "text" : "mas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t42",
+      "begin" : 304,
+      "end" : 316,
+      "text" : "infelizmente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t43",
+      "begin" : 317,
+      "end" : 323,
+      "text" : "alguns",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t44",
+      "begin" : 324,
+      "end" : 331,
+      "text" : "modelos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t45",
+      "begin" : 332,
+      "end" : 335,
+      "text" : "não",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t46",
+      "begin" : 336,
+      "end" : 343,
+      "text" : "possuem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t47",
+      "begin" : 344,
+      "end" : 347,
+      "text" : "ABS",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t48",
+      "begin" : 347,
+      "end" : 348,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 2,
+    "end" : 7,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 75,
+    "end" : 80,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DESEMPENHO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DESEMPENHO",
+    "begin" : 90,
+    "end" : 95,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 255,
+    "end" : 260,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m4",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "SEGURANCA",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "SEGURANCA",
+    "begin" : 264,
+    "end" : 270,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m6",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "SEGURANCA",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "SEGURANCA",
+    "begin" : 344,
+    "end" : 347,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s1-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m2", "s1-m1" ]
+  }, {
+    "id" : "s1-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m4", "s1-m3" ]
+  }, {
+    "id" : "s1-r3",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m6", "s1-m3" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

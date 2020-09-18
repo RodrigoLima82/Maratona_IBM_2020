@@ -1,0 +1,349 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-74",
+  "name" : "train_75.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "A Fiorino G2 é muito boa. O furgão é econômico e a suspensão é muito melhor em comparação à versão antiga. O único contra é a direção mecânica que é muito pesada, porém existe a versão com hidráulica no mercado.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600013035656,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 25,
+    "text" : "A Fiorino G2 é muito boa.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 1,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 2,
+      "end" : 9,
+      "text" : "Fiorino",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 10,
+      "end" : 12,
+      "text" : "G2",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 13,
+      "end" : 14,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 15,
+      "end" : 20,
+      "text" : "muito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 21,
+      "end" : 24,
+      "text" : "boa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 24,
+      "end" : 25,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 26,
+    "end" : 106,
+    "text" : "O furgão é econômico e a suspensão é muito melhor em comparação à versão antiga.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 26,
+      "end" : 27,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 28,
+      "end" : 34,
+      "text" : "furgão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 35,
+      "end" : 36,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 37,
+      "end" : 46,
+      "text" : "econômico",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 47,
+      "end" : 48,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 49,
+      "end" : 50,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 51,
+      "end" : 60,
+      "text" : "suspensão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 61,
+      "end" : 62,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 63,
+      "end" : 68,
+      "text" : "muito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 69,
+      "end" : 75,
+      "text" : "melhor",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 76,
+      "end" : 78,
+      "text" : "em",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 79,
+      "end" : 89,
+      "text" : "comparação",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 90,
+      "end" : 91,
+      "text" : "à",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 92,
+      "end" : 98,
+      "text" : "versão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 99,
+      "end" : 105,
+      "text" : "antiga",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 105,
+      "end" : 106,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s2",
+    "begin" : 107,
+    "end" : 211,
+    "text" : "O único contra é a direção mecânica que é muito pesada, porém existe a versão com hidráulica no mercado.",
+    "tokens" : [ {
+      "id" : "s2-t0",
+      "begin" : 107,
+      "end" : 108,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t1",
+      "begin" : 109,
+      "end" : 114,
+      "text" : "único",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t2",
+      "begin" : 115,
+      "end" : 121,
+      "text" : "contra",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t3",
+      "begin" : 122,
+      "end" : 123,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t4",
+      "begin" : 124,
+      "end" : 125,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t5",
+      "begin" : 126,
+      "end" : 133,
+      "text" : "direção",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t6",
+      "begin" : 134,
+      "end" : 142,
+      "text" : "mecânica",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t7",
+      "begin" : 143,
+      "end" : 146,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t8",
+      "begin" : 147,
+      "end" : 148,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t9",
+      "begin" : 149,
+      "end" : 154,
+      "text" : "muito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t10",
+      "begin" : 155,
+      "end" : 161,
+      "text" : "pesada",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t11",
+      "begin" : 161,
+      "end" : 162,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t12",
+      "begin" : 163,
+      "end" : 168,
+      "text" : "porém",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t13",
+      "begin" : 169,
+      "end" : 175,
+      "text" : "existe",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t14",
+      "begin" : 176,
+      "end" : 177,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t15",
+      "begin" : 178,
+      "end" : 184,
+      "text" : "versão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t16",
+      "begin" : 185,
+      "end" : 188,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t17",
+      "begin" : 189,
+      "end" : 199,
+      "text" : "hidráulica",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t18",
+      "begin" : 200,
+      "end" : 202,
+      "text" : "no",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t19",
+      "begin" : 203,
+      "end" : 210,
+      "text" : "mercado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t20",
+      "begin" : 210,
+      "end" : 211,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 2,
+    "end" : 9,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 37,
+    "end" : 46,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONFORTO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONFORTO",
+    "begin" : 51,
+    "end" : 60,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 189,
+    "end" : 199,
+    "inCoref" : false
+  } ],
+  "relations" : [ ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

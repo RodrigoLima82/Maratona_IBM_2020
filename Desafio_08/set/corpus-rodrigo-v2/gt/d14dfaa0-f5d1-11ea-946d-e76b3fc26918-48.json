@@ -1,0 +1,436 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-48",
+  "name" : "train_49_1.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "O visual do Fiat 500 é belíssimo, entretanto o one-touch dos vidros só funcionam para baixo e não há fechamento dos vidros pela chave. No Fiat 500 O valor do seguro e da manutenção também é alto, pricipalmente por conta das peças exclusivas difíceis de achar e caríssimas de serem repostas.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600012120422,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 134,
+    "text" : "O visual do Fiat 500 é belíssimo, entretanto o one-touch dos vidros só funcionam para baixo e não há fechamento dos vidros pela chave.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 1,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 2,
+      "end" : 8,
+      "text" : "visual",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 9,
+      "end" : 11,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 12,
+      "end" : 16,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 17,
+      "end" : 20,
+      "text" : "500",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 21,
+      "end" : 22,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 23,
+      "end" : 32,
+      "text" : "belíssimo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 32,
+      "end" : 33,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 34,
+      "end" : 44,
+      "text" : "entretanto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 45,
+      "end" : 46,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 47,
+      "end" : 56,
+      "text" : "one-touch",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 57,
+      "end" : 60,
+      "text" : "dos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 61,
+      "end" : 67,
+      "text" : "vidros",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 68,
+      "end" : 70,
+      "text" : "só",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 71,
+      "end" : 80,
+      "text" : "funcionam",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 81,
+      "end" : 85,
+      "text" : "para",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 86,
+      "end" : 91,
+      "text" : "baixo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 92,
+      "end" : 93,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 94,
+      "end" : 97,
+      "text" : "não",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 98,
+      "end" : 100,
+      "text" : "há",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 101,
+      "end" : 111,
+      "text" : "fechamento",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t21",
+      "begin" : 112,
+      "end" : 115,
+      "text" : "dos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t22",
+      "begin" : 116,
+      "end" : 122,
+      "text" : "vidros",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t23",
+      "begin" : 123,
+      "end" : 127,
+      "text" : "pela",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t24",
+      "begin" : 128,
+      "end" : 133,
+      "text" : "chave",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t25",
+      "begin" : 133,
+      "end" : 134,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 135,
+    "end" : 290,
+    "text" : "No Fiat 500 O valor do seguro e da manutenção também é alto, pricipalmente por conta das peças exclusivas difíceis de achar e caríssimas de serem repostas.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 135,
+      "end" : 137,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 138,
+      "end" : 142,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 143,
+      "end" : 146,
+      "text" : "500",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 147,
+      "end" : 148,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 149,
+      "end" : 154,
+      "text" : "valor",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 155,
+      "end" : 157,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 158,
+      "end" : 164,
+      "text" : "seguro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 165,
+      "end" : 166,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 167,
+      "end" : 169,
+      "text" : "da",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 170,
+      "end" : 180,
+      "text" : "manutenção",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 181,
+      "end" : 187,
+      "text" : "também",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 188,
+      "end" : 189,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 190,
+      "end" : 194,
+      "text" : "alto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 194,
+      "end" : 195,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 196,
+      "end" : 209,
+      "text" : "pricipalmente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 210,
+      "end" : 213,
+      "text" : "por",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t16",
+      "begin" : 214,
+      "end" : 219,
+      "text" : "conta",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t17",
+      "begin" : 220,
+      "end" : 223,
+      "text" : "das",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t18",
+      "begin" : 224,
+      "end" : 229,
+      "text" : "peças",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t19",
+      "begin" : 230,
+      "end" : 240,
+      "text" : "exclusivas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t20",
+      "begin" : 241,
+      "end" : 249,
+      "text" : "difíceis",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t21",
+      "begin" : 250,
+      "end" : 252,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t22",
+      "begin" : 253,
+      "end" : 258,
+      "text" : "achar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t23",
+      "begin" : 259,
+      "end" : 260,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t24",
+      "begin" : 261,
+      "end" : 271,
+      "text" : "caríssimas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t25",
+      "begin" : 272,
+      "end" : 274,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t26",
+      "begin" : 275,
+      "end" : 280,
+      "text" : "serem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t27",
+      "begin" : 281,
+      "end" : 289,
+      "text" : "repostas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t28",
+      "begin" : 289,
+      "end" : 290,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 12,
+    "end" : 20,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 47,
+    "end" : 56,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 138,
+    "end" : 146,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MANUTENCAO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MANUTENCAO",
+    "begin" : 170,
+    "end" : 180,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MANUTENCAO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MANUTENCAO",
+    "begin" : 224,
+    "end" : 229,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s0-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m2", "s0-m1" ]
+  }, {
+    "id" : "s1-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m2", "s1-m1" ]
+  }, {
+    "id" : "s1-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m3", "s1-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

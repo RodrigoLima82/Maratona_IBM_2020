@@ -1,0 +1,409 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-97",
+  "name" : "train_98.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "Bom carro, a Toro oferece boa qualidade construtive e custo benefício imbatível. Seus 186 cavalos aliados à suspensão bem acertada são a impressão de uma pick up maior! O design e faróis chamam atenção e seu porte facilita rodagem em vias urbanas se comparada às demais pickups flex do mercado.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600013377746,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 80,
+    "text" : "Bom carro, a Toro oferece boa qualidade construtive e custo benefício imbatível.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 3,
+      "text" : "Bom",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 4,
+      "end" : 9,
+      "text" : "carro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 9,
+      "end" : 10,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 11,
+      "end" : 12,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 13,
+      "end" : 17,
+      "text" : "Toro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 18,
+      "end" : 25,
+      "text" : "oferece",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 26,
+      "end" : 29,
+      "text" : "boa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 30,
+      "end" : 39,
+      "text" : "qualidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 40,
+      "end" : 51,
+      "text" : "construtive",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 52,
+      "end" : 53,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 54,
+      "end" : 59,
+      "text" : "custo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 60,
+      "end" : 69,
+      "text" : "benefício",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 70,
+      "end" : 79,
+      "text" : "imbatível",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 79,
+      "end" : 80,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 81,
+    "end" : 168,
+    "text" : "Seus 186 cavalos aliados à suspensão bem acertada são a impressão de uma pick up maior!",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 81,
+      "end" : 85,
+      "text" : "Seus",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 86,
+      "end" : 89,
+      "text" : "186",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 90,
+      "end" : 97,
+      "text" : "cavalos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 98,
+      "end" : 105,
+      "text" : "aliados",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 106,
+      "end" : 107,
+      "text" : "à",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 108,
+      "end" : 117,
+      "text" : "suspensão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 118,
+      "end" : 121,
+      "text" : "bem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 122,
+      "end" : 130,
+      "text" : "acertada",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 131,
+      "end" : 134,
+      "text" : "são",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 135,
+      "end" : 136,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 137,
+      "end" : 146,
+      "text" : "impressão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 147,
+      "end" : 149,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 150,
+      "end" : 153,
+      "text" : "uma",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 154,
+      "end" : 158,
+      "text" : "pick",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 159,
+      "end" : 161,
+      "text" : "up",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 162,
+      "end" : 167,
+      "text" : "maior",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t16",
+      "begin" : 167,
+      "end" : 168,
+      "text" : "!",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s2",
+    "begin" : 169,
+    "end" : 294,
+    "text" : "O design e faróis chamam atenção e seu porte facilita rodagem em vias urbanas se comparada às demais pickups flex do mercado.",
+    "tokens" : [ {
+      "id" : "s2-t0",
+      "begin" : 169,
+      "end" : 170,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t1",
+      "begin" : 171,
+      "end" : 177,
+      "text" : "design",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t2",
+      "begin" : 178,
+      "end" : 179,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t3",
+      "begin" : 180,
+      "end" : 186,
+      "text" : "faróis",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t4",
+      "begin" : 187,
+      "end" : 193,
+      "text" : "chamam",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t5",
+      "begin" : 194,
+      "end" : 201,
+      "text" : "atenção",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t6",
+      "begin" : 202,
+      "end" : 203,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t7",
+      "begin" : 204,
+      "end" : 207,
+      "text" : "seu",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t8",
+      "begin" : 208,
+      "end" : 213,
+      "text" : "porte",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t9",
+      "begin" : 214,
+      "end" : 222,
+      "text" : "facilita",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t10",
+      "begin" : 223,
+      "end" : 230,
+      "text" : "rodagem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t11",
+      "begin" : 231,
+      "end" : 233,
+      "text" : "em",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t12",
+      "begin" : 234,
+      "end" : 238,
+      "text" : "vias",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t13",
+      "begin" : 239,
+      "end" : 246,
+      "text" : "urbanas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t14",
+      "begin" : 247,
+      "end" : 249,
+      "text" : "se",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t15",
+      "begin" : 250,
+      "end" : 259,
+      "text" : "comparada",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t16",
+      "begin" : 260,
+      "end" : 262,
+      "text" : "às",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t17",
+      "begin" : 263,
+      "end" : 269,
+      "text" : "demais",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t18",
+      "begin" : 270,
+      "end" : 277,
+      "text" : "pickups",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t19",
+      "begin" : 278,
+      "end" : 282,
+      "text" : "flex",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t20",
+      "begin" : 283,
+      "end" : 285,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t21",
+      "begin" : 286,
+      "end" : 293,
+      "text" : "mercado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t22",
+      "begin" : 293,
+      "end" : 294,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 13,
+    "end" : 17,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONFORTO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONFORTO",
+    "begin" : 108,
+    "end" : 117,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DESIGN",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DESIGN",
+    "begin" : 171,
+    "end" : 177,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 180,
+    "end" : 186,
+    "inCoref" : false
+  } ],
+  "relations" : [ ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

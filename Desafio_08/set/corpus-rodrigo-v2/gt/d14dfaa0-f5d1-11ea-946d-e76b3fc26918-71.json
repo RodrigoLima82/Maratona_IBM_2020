@@ -1,0 +1,502 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-71",
+  "name" : "train_72.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "A Fiorino G1 possui baixo índice de manutenção, preço de peças de reposição acessível, facilidade de encontrar peças. Mecânica simples, fácil de achar mecânico qualificado. Boa autonomia do tanque de combustível, relativamente econômico. Fácil revenda no mercado de usados e o compartimento de carga é perfeito e de fácil acesso.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600012963096,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 117,
+    "text" : "A Fiorino G1 possui baixo índice de manutenção, preço de peças de reposição acessível, facilidade de encontrar peças.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 1,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 2,
+      "end" : 9,
+      "text" : "Fiorino",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 10,
+      "end" : 12,
+      "text" : "G1",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 13,
+      "end" : 19,
+      "text" : "possui",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 20,
+      "end" : 25,
+      "text" : "baixo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 26,
+      "end" : 32,
+      "text" : "índice",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 33,
+      "end" : 35,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 36,
+      "end" : 46,
+      "text" : "manutenção",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 46,
+      "end" : 47,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 48,
+      "end" : 53,
+      "text" : "preço",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 54,
+      "end" : 56,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 57,
+      "end" : 62,
+      "text" : "peças",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 63,
+      "end" : 65,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 66,
+      "end" : 75,
+      "text" : "reposição",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 76,
+      "end" : 85,
+      "text" : "acessível",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 85,
+      "end" : 86,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 87,
+      "end" : 97,
+      "text" : "facilidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 98,
+      "end" : 100,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 101,
+      "end" : 110,
+      "text" : "encontrar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 111,
+      "end" : 116,
+      "text" : "peças",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 116,
+      "end" : 117,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 118,
+    "end" : 172,
+    "text" : "Mecânica simples, fácil de achar mecânico qualificado.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 118,
+      "end" : 126,
+      "text" : "Mecânica",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 127,
+      "end" : 134,
+      "text" : "simples",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 134,
+      "end" : 135,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 136,
+      "end" : 141,
+      "text" : "fácil",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 142,
+      "end" : 144,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 145,
+      "end" : 150,
+      "text" : "achar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 151,
+      "end" : 159,
+      "text" : "mecânico",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 160,
+      "end" : 171,
+      "text" : "qualificado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 171,
+      "end" : 172,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s2",
+    "begin" : 173,
+    "end" : 237,
+    "text" : "Boa autonomia do tanque de combustível, relativamente econômico.",
+    "tokens" : [ {
+      "id" : "s2-t0",
+      "begin" : 173,
+      "end" : 176,
+      "text" : "Boa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t1",
+      "begin" : 177,
+      "end" : 186,
+      "text" : "autonomia",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t2",
+      "begin" : 187,
+      "end" : 189,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t3",
+      "begin" : 190,
+      "end" : 196,
+      "text" : "tanque",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t4",
+      "begin" : 197,
+      "end" : 199,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t5",
+      "begin" : 200,
+      "end" : 211,
+      "text" : "combustível",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t6",
+      "begin" : 211,
+      "end" : 212,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t7",
+      "begin" : 213,
+      "end" : 226,
+      "text" : "relativamente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t8",
+      "begin" : 227,
+      "end" : 236,
+      "text" : "econômico",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t9",
+      "begin" : 236,
+      "end" : 237,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s3",
+    "begin" : 238,
+    "end" : 329,
+    "text" : "Fácil revenda no mercado de usados e o compartimento de carga é perfeito e de fácil acesso.",
+    "tokens" : [ {
+      "id" : "s3-t0",
+      "begin" : 238,
+      "end" : 243,
+      "text" : "Fácil",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t1",
+      "begin" : 244,
+      "end" : 251,
+      "text" : "revenda",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t2",
+      "begin" : 252,
+      "end" : 254,
+      "text" : "no",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t3",
+      "begin" : 255,
+      "end" : 262,
+      "text" : "mercado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t4",
+      "begin" : 263,
+      "end" : 265,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t5",
+      "begin" : 266,
+      "end" : 272,
+      "text" : "usados",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t6",
+      "begin" : 273,
+      "end" : 274,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t7",
+      "begin" : 275,
+      "end" : 276,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t8",
+      "begin" : 277,
+      "end" : 290,
+      "text" : "compartimento",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t9",
+      "begin" : 291,
+      "end" : 293,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t10",
+      "begin" : 294,
+      "end" : 299,
+      "text" : "carga",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t11",
+      "begin" : 300,
+      "end" : 301,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t12",
+      "begin" : 302,
+      "end" : 310,
+      "text" : "perfeito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t13",
+      "begin" : 311,
+      "end" : 312,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t14",
+      "begin" : 313,
+      "end" : 315,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t15",
+      "begin" : 316,
+      "end" : 321,
+      "text" : "fácil",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t16",
+      "begin" : 322,
+      "end" : 328,
+      "text" : "acesso",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t17",
+      "begin" : 328,
+      "end" : 329,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 2,
+    "end" : 9,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MANUTENCAO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MANUTENCAO",
+    "begin" : 36,
+    "end" : 46,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MANUTENCAO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MANUTENCAO",
+    "begin" : 57,
+    "end" : 62,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m4",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MANUTENCAO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MANUTENCAO",
+    "begin" : 111,
+    "end" : 116,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MANUTENCAO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MANUTENCAO",
+    "begin" : 118,
+    "end" : 126,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MANUTENCAO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MANUTENCAO",
+    "begin" : 151,
+    "end" : 159,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 177,
+    "end" : 186,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 227,
+    "end" : 236,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s0-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m2", "s0-m1" ]
+  }, {
+    "id" : "s0-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m3", "s0-m1" ]
+  }, {
+    "id" : "s0-r3",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m4", "s0-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

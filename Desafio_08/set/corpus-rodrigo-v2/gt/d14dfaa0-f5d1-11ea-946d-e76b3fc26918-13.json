@@ -1,0 +1,330 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-13",
+  "name" : "train_14.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "Equipado com um motor quatro cilindros em linha (109/101 cv e 14,2/13,7 mkgf a 3.500 rpm) o Argo Drive acelera de 0 a 100 km/h em 10,8 segundos e atinge velocidade máxima de 184 km/h com etanol, segundo a Fiat.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600010134921,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 210,
+    "text" : "Equipado com um motor quatro cilindros em linha (109/101 cv e 14,2/13,7 mkgf a 3.500 rpm) o Argo Drive acelera de 0 a 100 km/h em 10,8 segundos e atinge velocidade máxima de 184 km/h com etanol, segundo a Fiat.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 8,
+      "text" : "Equipado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 9,
+      "end" : 12,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 13,
+      "end" : 15,
+      "text" : "um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 16,
+      "end" : 21,
+      "text" : "motor",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 22,
+      "end" : 28,
+      "text" : "quatro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 29,
+      "end" : 38,
+      "text" : "cilindros",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 39,
+      "end" : 41,
+      "text" : "em",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 42,
+      "end" : 47,
+      "text" : "linha",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 48,
+      "end" : 49,
+      "text" : "(",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 49,
+      "end" : 56,
+      "text" : "109/101",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 57,
+      "end" : 59,
+      "text" : "cv",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 60,
+      "end" : 61,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 62,
+      "end" : 64,
+      "text" : "14",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 64,
+      "end" : 70,
+      "text" : ",2/13,",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 70,
+      "end" : 71,
+      "text" : "7",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 72,
+      "end" : 76,
+      "text" : "mkgf",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 77,
+      "end" : 78,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 79,
+      "end" : 84,
+      "text" : "3.500",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 85,
+      "end" : 88,
+      "text" : "rpm",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 88,
+      "end" : 89,
+      "text" : ")",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 90,
+      "end" : 91,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t21",
+      "begin" : 92,
+      "end" : 96,
+      "text" : "Argo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t22",
+      "begin" : 97,
+      "end" : 102,
+      "text" : "Drive",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t23",
+      "begin" : 103,
+      "end" : 110,
+      "text" : "acelera",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t24",
+      "begin" : 111,
+      "end" : 113,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t25",
+      "begin" : 114,
+      "end" : 115,
+      "text" : "0",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t26",
+      "begin" : 116,
+      "end" : 117,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t27",
+      "begin" : 118,
+      "end" : 121,
+      "text" : "100",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t28",
+      "begin" : 122,
+      "end" : 126,
+      "text" : "km/h",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t29",
+      "begin" : 127,
+      "end" : 129,
+      "text" : "em",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t30",
+      "begin" : 130,
+      "end" : 134,
+      "text" : "10,8",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t31",
+      "begin" : 135,
+      "end" : 143,
+      "text" : "segundos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t32",
+      "begin" : 144,
+      "end" : 145,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t33",
+      "begin" : 146,
+      "end" : 152,
+      "text" : "atinge",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t34",
+      "begin" : 153,
+      "end" : 163,
+      "text" : "velocidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t35",
+      "begin" : 164,
+      "end" : 170,
+      "text" : "máxima",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t36",
+      "begin" : 171,
+      "end" : 173,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t37",
+      "begin" : 174,
+      "end" : 177,
+      "text" : "184",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t38",
+      "begin" : 178,
+      "end" : 182,
+      "text" : "km/h",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t39",
+      "begin" : 183,
+      "end" : 186,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t40",
+      "begin" : 187,
+      "end" : 193,
+      "text" : "etanol",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t41",
+      "begin" : 193,
+      "end" : 194,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t42",
+      "begin" : 195,
+      "end" : 202,
+      "text" : "segundo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t43",
+      "begin" : 203,
+      "end" : 204,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t44",
+      "begin" : 205,
+      "end" : 209,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t45",
+      "begin" : 209,
+      "end" : 210,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DESEMPENHO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DESEMPENHO",
+    "begin" : 16,
+    "end" : 21,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 92,
+    "end" : 96,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s0-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m2", "s0-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

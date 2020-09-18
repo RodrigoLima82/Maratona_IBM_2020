@@ -1,0 +1,558 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-24",
+  "name" : "train_25_1.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "O Fiat Argo possui um acabamento superior ao dos veículos concorrentes, tem bom desempenho em relação ao tamanho do motor e é relativamente econômico, média de 10,0 km/l na gasolina, e com o ar condicionado ligado 90% do tempo. A versão GSR do Argo tem um câmbio automatizado que contribui para o bom desempenho e economia de combustível.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600010971268,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 227,
+    "text" : "O Fiat Argo possui um acabamento superior ao dos veículos concorrentes, tem bom desempenho em relação ao tamanho do motor e é relativamente econômico, média de 10,0 km/l na gasolina, e com o ar condicionado ligado 90% do tempo.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 1,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 2,
+      "end" : 6,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 7,
+      "end" : 11,
+      "text" : "Argo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 12,
+      "end" : 18,
+      "text" : "possui",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 19,
+      "end" : 21,
+      "text" : "um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 22,
+      "end" : 32,
+      "text" : "acabamento",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 33,
+      "end" : 41,
+      "text" : "superior",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 42,
+      "end" : 44,
+      "text" : "ao",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 45,
+      "end" : 48,
+      "text" : "dos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 49,
+      "end" : 57,
+      "text" : "veículos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 58,
+      "end" : 70,
+      "text" : "concorrentes",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 70,
+      "end" : 71,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 72,
+      "end" : 75,
+      "text" : "tem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 76,
+      "end" : 79,
+      "text" : "bom",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 80,
+      "end" : 90,
+      "text" : "desempenho",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 91,
+      "end" : 93,
+      "text" : "em",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 94,
+      "end" : 101,
+      "text" : "relação",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 102,
+      "end" : 104,
+      "text" : "ao",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 105,
+      "end" : 112,
+      "text" : "tamanho",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 113,
+      "end" : 115,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 116,
+      "end" : 121,
+      "text" : "motor",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t21",
+      "begin" : 122,
+      "end" : 123,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t22",
+      "begin" : 124,
+      "end" : 125,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t23",
+      "begin" : 126,
+      "end" : 139,
+      "text" : "relativamente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t24",
+      "begin" : 140,
+      "end" : 149,
+      "text" : "econômico",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t25",
+      "begin" : 149,
+      "end" : 150,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t26",
+      "begin" : 151,
+      "end" : 156,
+      "text" : "média",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t27",
+      "begin" : 157,
+      "end" : 159,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t28",
+      "begin" : 160,
+      "end" : 164,
+      "text" : "10,0",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t29",
+      "begin" : 165,
+      "end" : 169,
+      "text" : "km/l",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t30",
+      "begin" : 170,
+      "end" : 172,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t31",
+      "begin" : 173,
+      "end" : 181,
+      "text" : "gasolina",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t32",
+      "begin" : 181,
+      "end" : 182,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t33",
+      "begin" : 183,
+      "end" : 184,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t34",
+      "begin" : 185,
+      "end" : 188,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t35",
+      "begin" : 189,
+      "end" : 190,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t36",
+      "begin" : 191,
+      "end" : 193,
+      "text" : "ar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t37",
+      "begin" : 194,
+      "end" : 206,
+      "text" : "condicionado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t38",
+      "begin" : 207,
+      "end" : 213,
+      "text" : "ligado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t39",
+      "begin" : 214,
+      "end" : 216,
+      "text" : "90",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t40",
+      "begin" : 216,
+      "end" : 217,
+      "text" : "%",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t41",
+      "begin" : 218,
+      "end" : 220,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t42",
+      "begin" : 221,
+      "end" : 226,
+      "text" : "tempo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t43",
+      "begin" : 226,
+      "end" : 227,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 228,
+    "end" : 338,
+    "text" : "A versão GSR do Argo tem um câmbio automatizado que contribui para o bom desempenho e economia de combustível.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 228,
+      "end" : 229,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 230,
+      "end" : 236,
+      "text" : "versão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 237,
+      "end" : 240,
+      "text" : "GSR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 241,
+      "end" : 243,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 244,
+      "end" : 248,
+      "text" : "Argo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 249,
+      "end" : 252,
+      "text" : "tem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 253,
+      "end" : 255,
+      "text" : "um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 256,
+      "end" : 262,
+      "text" : "câmbio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 263,
+      "end" : 275,
+      "text" : "automatizado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 276,
+      "end" : 279,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 280,
+      "end" : 289,
+      "text" : "contribui",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 290,
+      "end" : 294,
+      "text" : "para",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 295,
+      "end" : 296,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 297,
+      "end" : 300,
+      "text" : "bom",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 301,
+      "end" : 311,
+      "text" : "desempenho",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 312,
+      "end" : 313,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t16",
+      "begin" : 314,
+      "end" : 322,
+      "text" : "economia",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t17",
+      "begin" : 323,
+      "end" : 325,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t18",
+      "begin" : 326,
+      "end" : 337,
+      "text" : "combustível",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t19",
+      "begin" : 337,
+      "end" : 338,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 7,
+    "end" : 11,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DESEMPENHO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DESEMPENHO",
+    "begin" : 116,
+    "end" : 121,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 140,
+    "end" : 149,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m4",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 160,
+    "end" : 169,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m5",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 191,
+    "end" : 206,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DESIGN",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DESIGN",
+    "begin" : 237,
+    "end" : 240,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 244,
+    "end" : 248,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 256,
+    "end" : 262,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m4",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 314,
+    "end" : 322,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s0-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m3", "s0-m1" ]
+  }, {
+    "id" : "s0-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m4", "s0-m1" ]
+  }, {
+    "id" : "s0-r3",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m5", "s0-m1" ]
+  }, {
+    "id" : "s0-r4",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m2", "s0-m1" ]
+  }, {
+    "id" : "s1-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m2", "s1-m1" ]
+  }, {
+    "id" : "s1-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m3", "s1-m1" ]
+  }, {
+    "id" : "s1-r3",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m4", "s1-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

@@ -1,0 +1,1 @@
+Na pista de testes, sempre com gasolina, o Cronos seguiu a lógica: números muito parecidos com o Argo 1.8 AT6. O desempenho está dentro da média: aceleração de 0 a 100 km/h em 11,2 s e retomada de 80 a 20 km/h em 8,3 s

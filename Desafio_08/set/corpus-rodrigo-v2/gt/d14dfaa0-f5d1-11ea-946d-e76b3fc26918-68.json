@@ -1,0 +1,382 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-68",
+  "name" : "train_69.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "O Cronos é um lindo automóvel, com suspensão bem calibrada e bancos confortáveis. Entretanto, a transmissão do Cronos tem possivelmente algum tipo de folga que causa estalos na direção. Também existem barulhos na suspensão traseira que incomodam bastante.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600012839433,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 81,
+    "text" : "O Cronos é um lindo automóvel, com suspensão bem calibrada e bancos confortáveis.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 1,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 2,
+      "end" : 8,
+      "text" : "Cronos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 9,
+      "end" : 10,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 11,
+      "end" : 13,
+      "text" : "um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 14,
+      "end" : 19,
+      "text" : "lindo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 20,
+      "end" : 29,
+      "text" : "automóvel",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 29,
+      "end" : 30,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 31,
+      "end" : 34,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 35,
+      "end" : 44,
+      "text" : "suspensão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 45,
+      "end" : 48,
+      "text" : "bem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 49,
+      "end" : 58,
+      "text" : "calibrada",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 59,
+      "end" : 60,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 61,
+      "end" : 67,
+      "text" : "bancos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 68,
+      "end" : 80,
+      "text" : "confortáveis",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 80,
+      "end" : 81,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 82,
+    "end" : 185,
+    "text" : "Entretanto, a transmissão do Cronos tem possivelmente algum tipo de folga que causa estalos na direção.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 82,
+      "end" : 92,
+      "text" : "Entretanto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 92,
+      "end" : 93,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 94,
+      "end" : 95,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 96,
+      "end" : 107,
+      "text" : "transmissão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 108,
+      "end" : 110,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 111,
+      "end" : 117,
+      "text" : "Cronos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 118,
+      "end" : 121,
+      "text" : "tem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 122,
+      "end" : 135,
+      "text" : "possivelmente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 136,
+      "end" : 141,
+      "text" : "algum",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 142,
+      "end" : 146,
+      "text" : "tipo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 147,
+      "end" : 149,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 150,
+      "end" : 155,
+      "text" : "folga",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 156,
+      "end" : 159,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 160,
+      "end" : 165,
+      "text" : "causa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 166,
+      "end" : 173,
+      "text" : "estalos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 174,
+      "end" : 176,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t16",
+      "begin" : 177,
+      "end" : 184,
+      "text" : "direção",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t17",
+      "begin" : 184,
+      "end" : 185,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s2",
+    "begin" : 186,
+    "end" : 255,
+    "text" : "Também existem barulhos na suspensão traseira que incomodam bastante.",
+    "tokens" : [ {
+      "id" : "s2-t0",
+      "begin" : 186,
+      "end" : 192,
+      "text" : "Também",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t1",
+      "begin" : 193,
+      "end" : 200,
+      "text" : "existem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t2",
+      "begin" : 201,
+      "end" : 209,
+      "text" : "barulhos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t3",
+      "begin" : 210,
+      "end" : 212,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t4",
+      "begin" : 213,
+      "end" : 222,
+      "text" : "suspensão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t5",
+      "begin" : 223,
+      "end" : 231,
+      "text" : "traseira",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t6",
+      "begin" : 232,
+      "end" : 235,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t7",
+      "begin" : 236,
+      "end" : 245,
+      "text" : "incomodam",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t8",
+      "begin" : 246,
+      "end" : 254,
+      "text" : "bastante",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t9",
+      "begin" : 254,
+      "end" : 255,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 2,
+    "end" : 8,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONFORTO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONFORTO",
+    "begin" : 35,
+    "end" : 44,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONFORTO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONFORTO",
+    "begin" : 61,
+    "end" : 67,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 96,
+    "end" : 107,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 111,
+    "end" : 117,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONFORTO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONFORTO",
+    "begin" : 213,
+    "end" : 222,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s0-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m2", "s0-m1" ]
+  }, {
+    "id" : "s0-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m3", "s0-m1" ]
+  }, {
+    "id" : "s1-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m2", "s1-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

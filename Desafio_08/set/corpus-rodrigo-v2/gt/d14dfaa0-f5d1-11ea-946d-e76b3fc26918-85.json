@@ -1,0 +1,334 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-85",
+  "name" : "train_86.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "Os bancos da Ducato são confortáveis, mas a suspensão firme faz com que a traseira pule muito nas ondulações de asfalto ou paralelepípedos, mas para o transporte de carga e passageiros, ela está na média do segmento.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600013843446,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 216,
+    "text" : "Os bancos da Ducato são confortáveis, mas a suspensão firme faz com que a traseira pule muito nas ondulações de asfalto ou paralelepípedos, mas para o transporte de carga e passageiros, ela está na média do segmento.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 2,
+      "text" : "Os",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 3,
+      "end" : 9,
+      "text" : "bancos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 10,
+      "end" : 12,
+      "text" : "da",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 13,
+      "end" : 19,
+      "text" : "Ducato",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 20,
+      "end" : 23,
+      "text" : "são",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 24,
+      "end" : 36,
+      "text" : "confortáveis",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 36,
+      "end" : 37,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 38,
+      "end" : 41,
+      "text" : "mas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 42,
+      "end" : 43,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 44,
+      "end" : 53,
+      "text" : "suspensão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 54,
+      "end" : 59,
+      "text" : "firme",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 60,
+      "end" : 63,
+      "text" : "faz",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 64,
+      "end" : 67,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 68,
+      "end" : 71,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 72,
+      "end" : 73,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 74,
+      "end" : 82,
+      "text" : "traseira",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 83,
+      "end" : 87,
+      "text" : "pule",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 88,
+      "end" : 93,
+      "text" : "muito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 94,
+      "end" : 97,
+      "text" : "nas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 98,
+      "end" : 108,
+      "text" : "ondulações",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 109,
+      "end" : 111,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t21",
+      "begin" : 112,
+      "end" : 119,
+      "text" : "asfalto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t22",
+      "begin" : 120,
+      "end" : 122,
+      "text" : "ou",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t23",
+      "begin" : 123,
+      "end" : 138,
+      "text" : "paralelepípedos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t24",
+      "begin" : 138,
+      "end" : 139,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t25",
+      "begin" : 140,
+      "end" : 143,
+      "text" : "mas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t26",
+      "begin" : 144,
+      "end" : 148,
+      "text" : "para",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t27",
+      "begin" : 149,
+      "end" : 150,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t28",
+      "begin" : 151,
+      "end" : 161,
+      "text" : "transporte",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t29",
+      "begin" : 162,
+      "end" : 164,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t30",
+      "begin" : 165,
+      "end" : 170,
+      "text" : "carga",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t31",
+      "begin" : 171,
+      "end" : 172,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t32",
+      "begin" : 173,
+      "end" : 184,
+      "text" : "passageiros",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t33",
+      "begin" : 184,
+      "end" : 185,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t34",
+      "begin" : 186,
+      "end" : 189,
+      "text" : "ela",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t35",
+      "begin" : 190,
+      "end" : 194,
+      "text" : "está",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t36",
+      "begin" : 195,
+      "end" : 197,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t37",
+      "begin" : 198,
+      "end" : 203,
+      "text" : "média",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t38",
+      "begin" : 204,
+      "end" : 206,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t39",
+      "begin" : 207,
+      "end" : 215,
+      "text" : "segmento",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t40",
+      "begin" : 215,
+      "end" : 216,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m4",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONFORTO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONFORTO",
+    "begin" : 3,
+    "end" : 9,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 13,
+    "end" : 19,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONFORTO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONFORTO",
+    "begin" : 24,
+    "end" : 36,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONFORTO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONFORTO",
+    "begin" : 44,
+    "end" : 53,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s0-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m4", "s0-m1" ]
+  }, {
+    "id" : "s0-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m2", "s0-m1" ]
+  }, {
+    "id" : "s0-r3",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m3", "s0-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

@@ -1,0 +1,859 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-64",
+  "name" : "train_65.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "Apesar de produzido na Argentina, o Cronos dividirá os mesmos conjuntos mecânicos com o Argo - a não ser pela ausência do 1.0. Ou seja, estamos falando do 1.3 Firefly de 101/109 cv e 13,7/14,2 kgfm com câmbio manual ou automatizado GSR de 5 marchas (fabricado em Betim, MG) e o 1.8 E-torQ de 135/139 cv e 18,8/19,3 kgfm com câmbio manual de 5 marchas ou automático de 6 marchas, vindo de Campo Largo (PR). O mesmo vale para a arquitetura eletrônica, vinda da Toro, Argo, Jeep Renegade e Compass. É um Argo Sedan? Sim e não.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600012719223,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 126,
+    "text" : "Apesar de produzido na Argentina, o Cronos dividirá os mesmos conjuntos mecânicos com o Argo - a não ser pela ausência do 1.0.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 6,
+      "text" : "Apesar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 7,
+      "end" : 9,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 10,
+      "end" : 19,
+      "text" : "produzido",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 20,
+      "end" : 22,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 23,
+      "end" : 32,
+      "text" : "Argentina",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 32,
+      "end" : 33,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 34,
+      "end" : 35,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 36,
+      "end" : 42,
+      "text" : "Cronos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 43,
+      "end" : 51,
+      "text" : "dividirá",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 52,
+      "end" : 54,
+      "text" : "os",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 55,
+      "end" : 61,
+      "text" : "mesmos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 62,
+      "end" : 71,
+      "text" : "conjuntos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 72,
+      "end" : 81,
+      "text" : "mecânicos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 82,
+      "end" : 85,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 86,
+      "end" : 87,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 88,
+      "end" : 92,
+      "text" : "Argo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 93,
+      "end" : 94,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 95,
+      "end" : 96,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 97,
+      "end" : 100,
+      "text" : "não",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 101,
+      "end" : 104,
+      "text" : "ser",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 105,
+      "end" : 109,
+      "text" : "pela",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t21",
+      "begin" : 110,
+      "end" : 118,
+      "text" : "ausência",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t22",
+      "begin" : 119,
+      "end" : 121,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t23",
+      "begin" : 122,
+      "end" : 125,
+      "text" : "1.0",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t24",
+      "begin" : 125,
+      "end" : 126,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 127,
+    "end" : 405,
+    "text" : "Ou seja, estamos falando do 1.3 Firefly de 101/109 cv e 13,7/14,2 kgfm com câmbio manual ou automatizado GSR de 5 marchas (fabricado em Betim, MG) e o 1.8 E-torQ de 135/139 cv e 18,8/19,3 kgfm com câmbio manual de 5 marchas ou automático de 6 marchas, vindo de Campo Largo (PR).",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 127,
+      "end" : 129,
+      "text" : "Ou",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 130,
+      "end" : 134,
+      "text" : "seja",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 134,
+      "end" : 135,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 136,
+      "end" : 143,
+      "text" : "estamos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 144,
+      "end" : 151,
+      "text" : "falando",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 152,
+      "end" : 154,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 155,
+      "end" : 158,
+      "text" : "1.3",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 159,
+      "end" : 166,
+      "text" : "Firefly",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 167,
+      "end" : 169,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 170,
+      "end" : 177,
+      "text" : "101/109",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 178,
+      "end" : 180,
+      "text" : "cv",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 181,
+      "end" : 182,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 183,
+      "end" : 185,
+      "text" : "13",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 185,
+      "end" : 191,
+      "text" : ",7/14,",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 191,
+      "end" : 192,
+      "text" : "2",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 193,
+      "end" : 197,
+      "text" : "kgfm",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t16",
+      "begin" : 198,
+      "end" : 201,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t17",
+      "begin" : 202,
+      "end" : 208,
+      "text" : "câmbio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t18",
+      "begin" : 209,
+      "end" : 215,
+      "text" : "manual",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t19",
+      "begin" : 216,
+      "end" : 218,
+      "text" : "ou",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t20",
+      "begin" : 219,
+      "end" : 231,
+      "text" : "automatizado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t21",
+      "begin" : 232,
+      "end" : 235,
+      "text" : "GSR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t22",
+      "begin" : 236,
+      "end" : 238,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t23",
+      "begin" : 239,
+      "end" : 240,
+      "text" : "5",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t24",
+      "begin" : 241,
+      "end" : 248,
+      "text" : "marchas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t25",
+      "begin" : 249,
+      "end" : 250,
+      "text" : "(",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t26",
+      "begin" : 250,
+      "end" : 259,
+      "text" : "fabricado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t27",
+      "begin" : 260,
+      "end" : 262,
+      "text" : "em",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t28",
+      "begin" : 263,
+      "end" : 268,
+      "text" : "Betim",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t29",
+      "begin" : 268,
+      "end" : 269,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t30",
+      "begin" : 270,
+      "end" : 272,
+      "text" : "MG",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t31",
+      "begin" : 272,
+      "end" : 273,
+      "text" : ")",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t32",
+      "begin" : 274,
+      "end" : 275,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t33",
+      "begin" : 276,
+      "end" : 277,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t34",
+      "begin" : 278,
+      "end" : 281,
+      "text" : "1.8",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t35",
+      "begin" : 282,
+      "end" : 283,
+      "text" : "E",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t36",
+      "begin" : 283,
+      "end" : 284,
+      "text" : "-",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t37",
+      "begin" : 284,
+      "end" : 288,
+      "text" : "torQ",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t38",
+      "begin" : 289,
+      "end" : 291,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t39",
+      "begin" : 292,
+      "end" : 299,
+      "text" : "135/139",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t40",
+      "begin" : 300,
+      "end" : 302,
+      "text" : "cv",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t41",
+      "begin" : 303,
+      "end" : 304,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t42",
+      "begin" : 305,
+      "end" : 307,
+      "text" : "18",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t43",
+      "begin" : 307,
+      "end" : 313,
+      "text" : ",8/19,",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t44",
+      "begin" : 313,
+      "end" : 314,
+      "text" : "3",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t45",
+      "begin" : 315,
+      "end" : 319,
+      "text" : "kgfm",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t46",
+      "begin" : 320,
+      "end" : 323,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t47",
+      "begin" : 324,
+      "end" : 330,
+      "text" : "câmbio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t48",
+      "begin" : 331,
+      "end" : 337,
+      "text" : "manual",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t49",
+      "begin" : 338,
+      "end" : 340,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t50",
+      "begin" : 341,
+      "end" : 342,
+      "text" : "5",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t51",
+      "begin" : 343,
+      "end" : 350,
+      "text" : "marchas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t52",
+      "begin" : 351,
+      "end" : 353,
+      "text" : "ou",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t53",
+      "begin" : 354,
+      "end" : 364,
+      "text" : "automático",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t54",
+      "begin" : 365,
+      "end" : 367,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t55",
+      "begin" : 368,
+      "end" : 369,
+      "text" : "6",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t56",
+      "begin" : 370,
+      "end" : 377,
+      "text" : "marchas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t57",
+      "begin" : 377,
+      "end" : 378,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t58",
+      "begin" : 379,
+      "end" : 384,
+      "text" : "vindo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t59",
+      "begin" : 385,
+      "end" : 387,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t60",
+      "begin" : 388,
+      "end" : 393,
+      "text" : "Campo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t61",
+      "begin" : 394,
+      "end" : 399,
+      "text" : "Largo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t62",
+      "begin" : 400,
+      "end" : 401,
+      "text" : "(",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t63",
+      "begin" : 401,
+      "end" : 403,
+      "text" : "PR",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t64",
+      "begin" : 403,
+      "end" : 404,
+      "text" : ")",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t65",
+      "begin" : 404,
+      "end" : 405,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s2",
+    "begin" : 406,
+    "end" : 495,
+    "text" : "O mesmo vale para a arquitetura eletrônica, vinda da Toro, Argo, Jeep Renegade e Compass.",
+    "tokens" : [ {
+      "id" : "s2-t0",
+      "begin" : 406,
+      "end" : 407,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t1",
+      "begin" : 408,
+      "end" : 413,
+      "text" : "mesmo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t2",
+      "begin" : 414,
+      "end" : 418,
+      "text" : "vale",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t3",
+      "begin" : 419,
+      "end" : 423,
+      "text" : "para",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t4",
+      "begin" : 424,
+      "end" : 425,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t5",
+      "begin" : 426,
+      "end" : 437,
+      "text" : "arquitetura",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t6",
+      "begin" : 438,
+      "end" : 448,
+      "text" : "eletrônica",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t7",
+      "begin" : 448,
+      "end" : 449,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t8",
+      "begin" : 450,
+      "end" : 455,
+      "text" : "vinda",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t9",
+      "begin" : 456,
+      "end" : 458,
+      "text" : "da",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t10",
+      "begin" : 459,
+      "end" : 463,
+      "text" : "Toro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t11",
+      "begin" : 463,
+      "end" : 464,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t12",
+      "begin" : 465,
+      "end" : 469,
+      "text" : "Argo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t13",
+      "begin" : 469,
+      "end" : 470,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t14",
+      "begin" : 471,
+      "end" : 475,
+      "text" : "Jeep",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t15",
+      "begin" : 476,
+      "end" : 484,
+      "text" : "Renegade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t16",
+      "begin" : 485,
+      "end" : 486,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t17",
+      "begin" : 487,
+      "end" : 494,
+      "text" : "Compass",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t18",
+      "begin" : 494,
+      "end" : 495,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s3",
+    "begin" : 496,
+    "end" : 512,
+    "text" : "É um Argo Sedan?",
+    "tokens" : [ {
+      "id" : "s3-t0",
+      "begin" : 496,
+      "end" : 497,
+      "text" : "É",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t1",
+      "begin" : 498,
+      "end" : 500,
+      "text" : "um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t2",
+      "begin" : 501,
+      "end" : 505,
+      "text" : "Argo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t3",
+      "begin" : 506,
+      "end" : 511,
+      "text" : "Sedan",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t4",
+      "begin" : 511,
+      "end" : 512,
+      "text" : "?",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s4",
+    "begin" : 513,
+    "end" : 523,
+    "text" : "Sim e não.",
+    "tokens" : [ {
+      "id" : "s4-t0",
+      "begin" : 513,
+      "end" : 516,
+      "text" : "Sim",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t1",
+      "begin" : 517,
+      "end" : 518,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t2",
+      "begin" : 519,
+      "end" : 522,
+      "text" : "não",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t3",
+      "begin" : 522,
+      "end" : 523,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 36,
+    "end" : 42,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 202,
+    "end" : 208,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 209,
+    "end" : 215,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m4",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 219,
+    "end" : 231,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m5",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 232,
+    "end" : 235,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m6",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 324,
+    "end" : 330,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m7",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 331,
+    "end" : 337,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m8",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 354,
+    "end" : 364,
+    "inCoref" : false
+  } ],
+  "relations" : [ ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

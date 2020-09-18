@@ -1,0 +1,366 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-87",
+  "name" : "train_88.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "Minha única crítica a Ducato é o calor infernal que fica na cabine no modelo sem ar condicionado, que deveria vir de série. A fechadura da porta lateral também é ruim, entretanto toda a mecânica é ótima e não tem alto custo de manutenção\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600013918630,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 123,
+    "text" : "Minha única crítica a Ducato é o calor infernal que fica na cabine no modelo sem ar condicionado, que deveria vir de série.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 5,
+      "text" : "Minha",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 6,
+      "end" : 11,
+      "text" : "única",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 12,
+      "end" : 19,
+      "text" : "crítica",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 20,
+      "end" : 21,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 22,
+      "end" : 28,
+      "text" : "Ducato",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 29,
+      "end" : 30,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 31,
+      "end" : 32,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 33,
+      "end" : 38,
+      "text" : "calor",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 39,
+      "end" : 47,
+      "text" : "infernal",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 48,
+      "end" : 51,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 52,
+      "end" : 56,
+      "text" : "fica",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 57,
+      "end" : 59,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 60,
+      "end" : 66,
+      "text" : "cabine",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 67,
+      "end" : 69,
+      "text" : "no",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 70,
+      "end" : 76,
+      "text" : "modelo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 77,
+      "end" : 80,
+      "text" : "sem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 81,
+      "end" : 83,
+      "text" : "ar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 84,
+      "end" : 96,
+      "text" : "condicionado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 96,
+      "end" : 97,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 98,
+      "end" : 101,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 102,
+      "end" : 109,
+      "text" : "deveria",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t21",
+      "begin" : 110,
+      "end" : 113,
+      "text" : "vir",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t22",
+      "begin" : 114,
+      "end" : 116,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t23",
+      "begin" : 117,
+      "end" : 122,
+      "text" : "série",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t24",
+      "begin" : 122,
+      "end" : 123,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 124,
+    "end" : 237,
+    "text" : "A fechadura da porta lateral também é ruim, entretanto toda a mecânica é ótima e não tem alto custo de manutenção",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 124,
+      "end" : 125,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 126,
+      "end" : 135,
+      "text" : "fechadura",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 136,
+      "end" : 138,
+      "text" : "da",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 139,
+      "end" : 144,
+      "text" : "porta",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 145,
+      "end" : 152,
+      "text" : "lateral",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 153,
+      "end" : 159,
+      "text" : "também",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 160,
+      "end" : 161,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 162,
+      "end" : 166,
+      "text" : "ruim",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 166,
+      "end" : 167,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 168,
+      "end" : 178,
+      "text" : "entretanto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 179,
+      "end" : 183,
+      "text" : "toda",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 184,
+      "end" : 185,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 186,
+      "end" : 194,
+      "text" : "mecânica",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 195,
+      "end" : 196,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 197,
+      "end" : 202,
+      "text" : "ótima",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 203,
+      "end" : 204,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t16",
+      "begin" : 205,
+      "end" : 208,
+      "text" : "não",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t17",
+      "begin" : 209,
+      "end" : 212,
+      "text" : "tem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t18",
+      "begin" : 213,
+      "end" : 217,
+      "text" : "alto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t19",
+      "begin" : 218,
+      "end" : 223,
+      "text" : "custo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t20",
+      "begin" : 224,
+      "end" : 226,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t21",
+      "begin" : 227,
+      "end" : 237,
+      "text" : "manutenção",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 22,
+    "end" : 28,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 81,
+    "end" : 96,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 126,
+    "end" : 152,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MANUTENCAO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MANUTENCAO",
+    "begin" : 227,
+    "end" : 237,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s0-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m2", "s0-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

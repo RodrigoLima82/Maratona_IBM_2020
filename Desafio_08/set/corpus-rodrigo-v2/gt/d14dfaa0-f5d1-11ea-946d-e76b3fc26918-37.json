@@ -1,0 +1,465 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-37",
+  "name" : "train_38_1.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "O Marea possui Um motor potente com uma sinfonia dos 5 cilindros de fazer o motorista entortar o pescoço, com design agressivo e muito ao contrário do que dizem esse carro é sim bem potente. O ar gela muito bem e o conforto que o Marea 2.0 proporciona não deixa a desejar em nada.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600011565582,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 190,
+    "text" : "O Marea possui Um motor potente com uma sinfonia dos 5 cilindros de fazer o motorista entortar o pescoço, com design agressivo e muito ao contrário do que dizem esse carro é sim bem potente.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 1,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 2,
+      "end" : 7,
+      "text" : "Marea",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 8,
+      "end" : 14,
+      "text" : "possui",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 15,
+      "end" : 17,
+      "text" : "Um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 18,
+      "end" : 23,
+      "text" : "motor",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 24,
+      "end" : 31,
+      "text" : "potente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 32,
+      "end" : 35,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 36,
+      "end" : 39,
+      "text" : "uma",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 40,
+      "end" : 48,
+      "text" : "sinfonia",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 49,
+      "end" : 52,
+      "text" : "dos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 53,
+      "end" : 54,
+      "text" : "5",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 55,
+      "end" : 64,
+      "text" : "cilindros",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 65,
+      "end" : 67,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 68,
+      "end" : 73,
+      "text" : "fazer",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 74,
+      "end" : 75,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 76,
+      "end" : 85,
+      "text" : "motorista",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 86,
+      "end" : 94,
+      "text" : "entortar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 95,
+      "end" : 96,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 97,
+      "end" : 104,
+      "text" : "pescoço",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 104,
+      "end" : 105,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 106,
+      "end" : 109,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t21",
+      "begin" : 110,
+      "end" : 116,
+      "text" : "design",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t22",
+      "begin" : 117,
+      "end" : 126,
+      "text" : "agressivo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t23",
+      "begin" : 127,
+      "end" : 128,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t24",
+      "begin" : 129,
+      "end" : 134,
+      "text" : "muito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t25",
+      "begin" : 135,
+      "end" : 137,
+      "text" : "ao",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t26",
+      "begin" : 138,
+      "end" : 147,
+      "text" : "contrário",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t27",
+      "begin" : 148,
+      "end" : 150,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t28",
+      "begin" : 151,
+      "end" : 154,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t29",
+      "begin" : 155,
+      "end" : 160,
+      "text" : "dizem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t30",
+      "begin" : 161,
+      "end" : 165,
+      "text" : "esse",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t31",
+      "begin" : 166,
+      "end" : 171,
+      "text" : "carro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t32",
+      "begin" : 172,
+      "end" : 173,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t33",
+      "begin" : 174,
+      "end" : 177,
+      "text" : "sim",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t34",
+      "begin" : 178,
+      "end" : 181,
+      "text" : "bem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t35",
+      "begin" : 182,
+      "end" : 189,
+      "text" : "potente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t36",
+      "begin" : 189,
+      "end" : 190,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 191,
+    "end" : 280,
+    "text" : "O ar gela muito bem e o conforto que o Marea 2.0 proporciona não deixa a desejar em nada.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 191,
+      "end" : 192,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 193,
+      "end" : 195,
+      "text" : "ar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 196,
+      "end" : 200,
+      "text" : "gela",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 201,
+      "end" : 206,
+      "text" : "muito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 207,
+      "end" : 210,
+      "text" : "bem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 211,
+      "end" : 212,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 213,
+      "end" : 214,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 215,
+      "end" : 223,
+      "text" : "conforto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 224,
+      "end" : 227,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 228,
+      "end" : 229,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 230,
+      "end" : 235,
+      "text" : "Marea",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 236,
+      "end" : 239,
+      "text" : "2.0",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 240,
+      "end" : 251,
+      "text" : "proporciona",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 252,
+      "end" : 255,
+      "text" : "não",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 256,
+      "end" : 261,
+      "text" : "deixa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 262,
+      "end" : 263,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t16",
+      "begin" : 264,
+      "end" : 271,
+      "text" : "desejar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t17",
+      "begin" : 272,
+      "end" : 274,
+      "text" : "em",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t18",
+      "begin" : 275,
+      "end" : 279,
+      "text" : "nada",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t19",
+      "begin" : 279,
+      "end" : 280,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 2,
+    "end" : 7,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DESEMPENHO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DESEMPENHO",
+    "begin" : 18,
+    "end" : 23,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DESIGN",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DESIGN",
+    "begin" : 110,
+    "end" : 116,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 193,
+    "end" : 195,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONFORTO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONFORTO",
+    "begin" : 215,
+    "end" : 223,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 230,
+    "end" : 235,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s0-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m2", "s0-m1" ]
+  }, {
+    "id" : "s0-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m3", "s0-m1" ]
+  }, {
+    "id" : "s1-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m3", "s1-m1" ]
+  }, {
+    "id" : "s1-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m2", "s1-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

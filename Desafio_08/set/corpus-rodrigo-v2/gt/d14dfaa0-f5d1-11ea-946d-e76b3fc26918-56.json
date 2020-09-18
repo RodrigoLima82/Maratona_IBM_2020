@@ -1,0 +1,400 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-56",
+  "name" : "train_57.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "O Cronos possui grande conforto na rodagem, silêncio interno excelente, computador de bordo completíssimo, som de excelente qualidade. O motor é muito criticado, pois é de concepção antiga, mas ele não possui correia dentada o que é vantajoso na manutenção.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600012440491,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 134,
+    "text" : "O Cronos possui grande conforto na rodagem, silêncio interno excelente, computador de bordo completíssimo, som de excelente qualidade.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 1,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 2,
+      "end" : 8,
+      "text" : "Cronos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 9,
+      "end" : 15,
+      "text" : "possui",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 16,
+      "end" : 22,
+      "text" : "grande",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 23,
+      "end" : 31,
+      "text" : "conforto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 32,
+      "end" : 34,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 35,
+      "end" : 42,
+      "text" : "rodagem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 42,
+      "end" : 43,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 44,
+      "end" : 52,
+      "text" : "silêncio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 53,
+      "end" : 60,
+      "text" : "interno",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 61,
+      "end" : 70,
+      "text" : "excelente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 70,
+      "end" : 71,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 72,
+      "end" : 82,
+      "text" : "computador",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 83,
+      "end" : 85,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 86,
+      "end" : 91,
+      "text" : "bordo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 92,
+      "end" : 105,
+      "text" : "completíssimo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 105,
+      "end" : 106,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 107,
+      "end" : 110,
+      "text" : "som",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 111,
+      "end" : 113,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 114,
+      "end" : 123,
+      "text" : "excelente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 124,
+      "end" : 133,
+      "text" : "qualidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t21",
+      "begin" : 133,
+      "end" : 134,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 135,
+    "end" : 257,
+    "text" : "O motor é muito criticado, pois é de concepção antiga, mas ele não possui correia dentada o que é vantajoso na manutenção.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 135,
+      "end" : 136,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 137,
+      "end" : 142,
+      "text" : "motor",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 143,
+      "end" : 144,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 145,
+      "end" : 150,
+      "text" : "muito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 151,
+      "end" : 160,
+      "text" : "criticado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 160,
+      "end" : 161,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 162,
+      "end" : 166,
+      "text" : "pois",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 167,
+      "end" : 168,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 169,
+      "end" : 171,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 172,
+      "end" : 181,
+      "text" : "concepção",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 182,
+      "end" : 188,
+      "text" : "antiga",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 188,
+      "end" : 189,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 190,
+      "end" : 193,
+      "text" : "mas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 194,
+      "end" : 197,
+      "text" : "ele",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 198,
+      "end" : 201,
+      "text" : "não",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 202,
+      "end" : 208,
+      "text" : "possui",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t16",
+      "begin" : 209,
+      "end" : 216,
+      "text" : "correia",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t17",
+      "begin" : 217,
+      "end" : 224,
+      "text" : "dentada",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t18",
+      "begin" : 225,
+      "end" : 226,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t19",
+      "begin" : 227,
+      "end" : 230,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t20",
+      "begin" : 231,
+      "end" : 232,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t21",
+      "begin" : 233,
+      "end" : 242,
+      "text" : "vantajoso",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t22",
+      "begin" : 243,
+      "end" : 245,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t23",
+      "begin" : 246,
+      "end" : 256,
+      "text" : "manutenção",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t24",
+      "begin" : 256,
+      "end" : 257,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 2,
+    "end" : 8,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONFORTO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONFORTO",
+    "begin" : 23,
+    "end" : 31,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 72,
+    "end" : 91,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m4",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 107,
+    "end" : 110,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DESEMPENHO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DESEMPENHO",
+    "begin" : 137,
+    "end" : 142,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MANUTENCAO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MANUTENCAO",
+    "begin" : 246,
+    "end" : 256,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s0-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m2", "s0-m1" ]
+  }, {
+    "id" : "s0-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m3", "s0-m1" ]
+  }, {
+    "id" : "s0-r3",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m4", "s0-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

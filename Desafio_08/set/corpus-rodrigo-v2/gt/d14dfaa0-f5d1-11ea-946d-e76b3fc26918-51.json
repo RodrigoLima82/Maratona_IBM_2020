@@ -1,0 +1,250 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-51",
+  "name" : "train_52.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "O maior problema do Fiat 500 é o porta-malas minúsculo e a falta de espaço no banco traseiro, que é bem desconfortável para os passageiros.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600012309454,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 139,
+    "text" : "O maior problema do Fiat 500 é o porta-malas minúsculo e a falta de espaço no banco traseiro, que é bem desconfortável para os passageiros.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 1,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 2,
+      "end" : 7,
+      "text" : "maior",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 8,
+      "end" : 16,
+      "text" : "problema",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 17,
+      "end" : 19,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 20,
+      "end" : 24,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 25,
+      "end" : 28,
+      "text" : "500",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 29,
+      "end" : 30,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 31,
+      "end" : 32,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 33,
+      "end" : 44,
+      "text" : "porta-malas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 45,
+      "end" : 54,
+      "text" : "minúsculo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 55,
+      "end" : 56,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 57,
+      "end" : 58,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 59,
+      "end" : 64,
+      "text" : "falta",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 65,
+      "end" : 67,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 68,
+      "end" : 74,
+      "text" : "espaço",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 75,
+      "end" : 77,
+      "text" : "no",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 78,
+      "end" : 83,
+      "text" : "banco",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 84,
+      "end" : 92,
+      "text" : "traseiro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 92,
+      "end" : 93,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 94,
+      "end" : 97,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 98,
+      "end" : 99,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t21",
+      "begin" : 100,
+      "end" : 103,
+      "text" : "bem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t22",
+      "begin" : 104,
+      "end" : 118,
+      "text" : "desconfortável",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t23",
+      "begin" : 119,
+      "end" : 123,
+      "text" : "para",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t24",
+      "begin" : 124,
+      "end" : 126,
+      "text" : "os",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t25",
+      "begin" : 127,
+      "end" : 138,
+      "text" : "passageiros",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t26",
+      "begin" : 138,
+      "end" : 139,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 20,
+    "end" : 28,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 33,
+    "end" : 44,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONFORTO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONFORTO",
+    "begin" : 78,
+    "end" : 83,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m5",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONFORTO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONFORTO",
+    "begin" : 104,
+    "end" : 118,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s0-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m2", "s0-m1" ]
+  }, {
+    "id" : "s0-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m3", "s0-m1" ]
+  }, {
+    "id" : "s0-r3",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m5", "s0-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

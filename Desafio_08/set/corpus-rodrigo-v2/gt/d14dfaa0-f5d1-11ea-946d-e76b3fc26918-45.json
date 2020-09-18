@@ -1,0 +1,616 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-45",
+  "name" : "train_46_1.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "O Fiat 500 é um carro com visual que agrada muito, estiloso, bonito. No Fiat 500 Mecânica confiável com manutenções de rotina com preço baixo. No Fiat 500 O interior é bonito e bem acabado. O Fiat 500 É um carro muito urbano com relação de marchas curtas com uma potência muito boa. O Fiat 500 Cabe em qualquer vaga. Você vai se apaixonar se dirigir um.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600012005817,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 68,
+    "text" : "O Fiat 500 é um carro com visual que agrada muito, estiloso, bonito.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 1,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 2,
+      "end" : 6,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 7,
+      "end" : 10,
+      "text" : "500",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 11,
+      "end" : 12,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 13,
+      "end" : 15,
+      "text" : "um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 16,
+      "end" : 21,
+      "text" : "carro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 22,
+      "end" : 25,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 26,
+      "end" : 32,
+      "text" : "visual",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 33,
+      "end" : 36,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 37,
+      "end" : 43,
+      "text" : "agrada",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 44,
+      "end" : 49,
+      "text" : "muito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 49,
+      "end" : 50,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 51,
+      "end" : 59,
+      "text" : "estiloso",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 59,
+      "end" : 60,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 61,
+      "end" : 67,
+      "text" : "bonito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 67,
+      "end" : 68,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 69,
+    "end" : 142,
+    "text" : "No Fiat 500 Mecânica confiável com manutenções de rotina com preço baixo.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 69,
+      "end" : 71,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 72,
+      "end" : 76,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 77,
+      "end" : 80,
+      "text" : "500",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 81,
+      "end" : 89,
+      "text" : "Mecânica",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 90,
+      "end" : 99,
+      "text" : "confiável",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 100,
+      "end" : 103,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 104,
+      "end" : 115,
+      "text" : "manutenções",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 116,
+      "end" : 118,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 119,
+      "end" : 125,
+      "text" : "rotina",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 126,
+      "end" : 129,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 130,
+      "end" : 135,
+      "text" : "preço",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 136,
+      "end" : 141,
+      "text" : "baixo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 141,
+      "end" : 142,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s2",
+    "begin" : 143,
+    "end" : 189,
+    "text" : "No Fiat 500 O interior é bonito e bem acabado.",
+    "tokens" : [ {
+      "id" : "s2-t0",
+      "begin" : 143,
+      "end" : 145,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t1",
+      "begin" : 146,
+      "end" : 150,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t2",
+      "begin" : 151,
+      "end" : 154,
+      "text" : "500",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t3",
+      "begin" : 155,
+      "end" : 156,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t4",
+      "begin" : 157,
+      "end" : 165,
+      "text" : "interior",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t5",
+      "begin" : 166,
+      "end" : 167,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t6",
+      "begin" : 168,
+      "end" : 174,
+      "text" : "bonito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t7",
+      "begin" : 175,
+      "end" : 176,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t8",
+      "begin" : 177,
+      "end" : 180,
+      "text" : "bem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t9",
+      "begin" : 181,
+      "end" : 188,
+      "text" : "acabado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t10",
+      "begin" : 188,
+      "end" : 189,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s3",
+    "begin" : 190,
+    "end" : 282,
+    "text" : "O Fiat 500 É um carro muito urbano com relação de marchas curtas com uma potência muito boa.",
+    "tokens" : [ {
+      "id" : "s3-t0",
+      "begin" : 190,
+      "end" : 191,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t1",
+      "begin" : 192,
+      "end" : 196,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t2",
+      "begin" : 197,
+      "end" : 200,
+      "text" : "500",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t3",
+      "begin" : 201,
+      "end" : 202,
+      "text" : "É",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t4",
+      "begin" : 203,
+      "end" : 205,
+      "text" : "um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t5",
+      "begin" : 206,
+      "end" : 211,
+      "text" : "carro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t6",
+      "begin" : 212,
+      "end" : 217,
+      "text" : "muito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t7",
+      "begin" : 218,
+      "end" : 224,
+      "text" : "urbano",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t8",
+      "begin" : 225,
+      "end" : 228,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t9",
+      "begin" : 229,
+      "end" : 236,
+      "text" : "relação",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t10",
+      "begin" : 237,
+      "end" : 239,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t11",
+      "begin" : 240,
+      "end" : 247,
+      "text" : "marchas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t12",
+      "begin" : 248,
+      "end" : 254,
+      "text" : "curtas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t13",
+      "begin" : 255,
+      "end" : 258,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t14",
+      "begin" : 259,
+      "end" : 262,
+      "text" : "uma",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t15",
+      "begin" : 263,
+      "end" : 271,
+      "text" : "potência",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t16",
+      "begin" : 272,
+      "end" : 277,
+      "text" : "muito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t17",
+      "begin" : 278,
+      "end" : 281,
+      "text" : "boa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t18",
+      "begin" : 281,
+      "end" : 282,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s4",
+    "begin" : 283,
+    "end" : 316,
+    "text" : "O Fiat 500 Cabe em qualquer vaga.",
+    "tokens" : [ {
+      "id" : "s4-t0",
+      "begin" : 283,
+      "end" : 284,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t1",
+      "begin" : 285,
+      "end" : 289,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t2",
+      "begin" : 290,
+      "end" : 293,
+      "text" : "500",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t3",
+      "begin" : 294,
+      "end" : 298,
+      "text" : "Cabe",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t4",
+      "begin" : 299,
+      "end" : 301,
+      "text" : "em",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t5",
+      "begin" : 302,
+      "end" : 310,
+      "text" : "qualquer",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t6",
+      "begin" : 311,
+      "end" : 315,
+      "text" : "vaga",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t7",
+      "begin" : 315,
+      "end" : 316,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s5",
+    "begin" : 317,
+    "end" : 353,
+    "text" : "Você vai se apaixonar se dirigir um.",
+    "tokens" : [ {
+      "id" : "s5-t0",
+      "begin" : 317,
+      "end" : 321,
+      "text" : "Você",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t1",
+      "begin" : 322,
+      "end" : 325,
+      "text" : "vai",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t2",
+      "begin" : 326,
+      "end" : 328,
+      "text" : "se",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t3",
+      "begin" : 329,
+      "end" : 338,
+      "text" : "apaixonar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t4",
+      "begin" : 339,
+      "end" : 341,
+      "text" : "se",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t5",
+      "begin" : 342,
+      "end" : 349,
+      "text" : "dirigir",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t6",
+      "begin" : 350,
+      "end" : 352,
+      "text" : "um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t7",
+      "begin" : 352,
+      "end" : 353,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 2,
+    "end" : 10,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DESIGN",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DESIGN",
+    "begin" : 51,
+    "end" : 59,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DESIGN",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DESIGN",
+    "begin" : 61,
+    "end" : 67,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 72,
+    "end" : 80,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MANUTENCAO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MANUTENCAO",
+    "begin" : 104,
+    "end" : 115,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 146,
+    "end" : 154,
+    "inCoref" : false
+  }, {
+    "id" : "s3-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 192,
+    "end" : 200,
+    "inCoref" : false
+  }, {
+    "id" : "s4-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 285,
+    "end" : 293,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s0-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m2", "s0-m1" ]
+  }, {
+    "id" : "s0-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m3", "s0-m1" ]
+  }, {
+    "id" : "s1-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m3", "s1-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

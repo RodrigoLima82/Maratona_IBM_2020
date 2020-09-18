@@ -1,0 +1,436 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-73",
+  "name" : "train_74.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "Com um grande espaço interno e boa visibilidade, a Fiorino G1 é econômica e faz uma média de 9 km/L com etanol na cidade. As peças são razoavelmente baratas, o que reduz bastante o custo de manutenção. A Fiorino esterça bem mesmo não sendo hidráulica.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600013009989,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 121,
+    "text" : "Com um grande espaço interno e boa visibilidade, a Fiorino G1 é econômica e faz uma média de 9 km/L com etanol na cidade.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 3,
+      "text" : "Com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 4,
+      "end" : 6,
+      "text" : "um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 7,
+      "end" : 13,
+      "text" : "grande",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 14,
+      "end" : 20,
+      "text" : "espaço",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 21,
+      "end" : 28,
+      "text" : "interno",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 29,
+      "end" : 30,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 31,
+      "end" : 34,
+      "text" : "boa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 35,
+      "end" : 47,
+      "text" : "visibilidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 47,
+      "end" : 48,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 49,
+      "end" : 50,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 51,
+      "end" : 58,
+      "text" : "Fiorino",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 59,
+      "end" : 61,
+      "text" : "G1",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 62,
+      "end" : 63,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 64,
+      "end" : 73,
+      "text" : "econômica",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 74,
+      "end" : 75,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 76,
+      "end" : 79,
+      "text" : "faz",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 80,
+      "end" : 83,
+      "text" : "uma",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 84,
+      "end" : 89,
+      "text" : "média",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 90,
+      "end" : 92,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 93,
+      "end" : 94,
+      "text" : "9",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 95,
+      "end" : 99,
+      "text" : "km/L",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t21",
+      "begin" : 100,
+      "end" : 103,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t22",
+      "begin" : 104,
+      "end" : 110,
+      "text" : "etanol",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t23",
+      "begin" : 111,
+      "end" : 113,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t24",
+      "begin" : 114,
+      "end" : 120,
+      "text" : "cidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t25",
+      "begin" : 120,
+      "end" : 121,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 122,
+    "end" : 201,
+    "text" : "As peças são razoavelmente baratas, o que reduz bastante o custo de manutenção.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 122,
+      "end" : 124,
+      "text" : "As",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 125,
+      "end" : 130,
+      "text" : "peças",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 131,
+      "end" : 134,
+      "text" : "são",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 135,
+      "end" : 148,
+      "text" : "razoavelmente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 149,
+      "end" : 156,
+      "text" : "baratas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 156,
+      "end" : 157,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 158,
+      "end" : 159,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 160,
+      "end" : 163,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 164,
+      "end" : 169,
+      "text" : "reduz",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 170,
+      "end" : 178,
+      "text" : "bastante",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 179,
+      "end" : 180,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 181,
+      "end" : 186,
+      "text" : "custo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 187,
+      "end" : 189,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 190,
+      "end" : 200,
+      "text" : "manutenção",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 200,
+      "end" : 201,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s2",
+    "begin" : 202,
+    "end" : 251,
+    "text" : "A Fiorino esterça bem mesmo não sendo hidráulica.",
+    "tokens" : [ {
+      "id" : "s2-t0",
+      "begin" : 202,
+      "end" : 203,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t1",
+      "begin" : 204,
+      "end" : 211,
+      "text" : "Fiorino",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t2",
+      "begin" : 212,
+      "end" : 219,
+      "text" : "esterça",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t3",
+      "begin" : 220,
+      "end" : 223,
+      "text" : "bem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t4",
+      "begin" : 224,
+      "end" : 229,
+      "text" : "mesmo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t5",
+      "begin" : 230,
+      "end" : 233,
+      "text" : "não",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t6",
+      "begin" : 234,
+      "end" : 239,
+      "text" : "sendo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t7",
+      "begin" : 240,
+      "end" : 250,
+      "text" : "hidráulica",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t8",
+      "begin" : 250,
+      "end" : 251,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 51,
+    "end" : 58,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 64,
+    "end" : 73,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 93,
+    "end" : 99,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MANUTENCAO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MANUTENCAO",
+    "begin" : 125,
+    "end" : 130,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MANUTENCAO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MANUTENCAO",
+    "begin" : 190,
+    "end" : 200,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 204,
+    "end" : 211,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 240,
+    "end" : 250,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s0-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m3", "s0-m1" ]
+  }, {
+    "id" : "s0-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m2", "s0-m1" ]
+  }, {
+    "id" : "s2-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s2-m2", "s2-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

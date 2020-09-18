@@ -1,0 +1,410 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-81",
+  "name" : "train_82.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "No exterior, o novo Ducato conta com motores diesel 2.0 Multijet de 115 cv com câmbio manual de cinco marchas, 2.3 Multijet de 130 ou 150 cv com transmissão manual de seis marchas e o 3.0 Multijet de 180 cv com o câmbio Comfort Matic.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600013329538,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 234,
+    "text" : "No exterior, o novo Ducato conta com motores diesel 2.0 Multijet de 115 cv com câmbio manual de cinco marchas, 2.3 Multijet de 130 ou 150 cv com transmissão manual de seis marchas e o 3.0 Multijet de 180 cv com o câmbio Comfort Matic.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 2,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 3,
+      "end" : 11,
+      "text" : "exterior",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 11,
+      "end" : 12,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 13,
+      "end" : 14,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 15,
+      "end" : 19,
+      "text" : "novo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 20,
+      "end" : 26,
+      "text" : "Ducato",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 27,
+      "end" : 32,
+      "text" : "conta",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 33,
+      "end" : 36,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 37,
+      "end" : 44,
+      "text" : "motores",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 45,
+      "end" : 51,
+      "text" : "diesel",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 52,
+      "end" : 55,
+      "text" : "2.0",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 56,
+      "end" : 64,
+      "text" : "Multijet",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 65,
+      "end" : 67,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 68,
+      "end" : 71,
+      "text" : "115",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 72,
+      "end" : 74,
+      "text" : "cv",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 75,
+      "end" : 78,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 79,
+      "end" : 85,
+      "text" : "câmbio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 86,
+      "end" : 92,
+      "text" : "manual",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 93,
+      "end" : 95,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 96,
+      "end" : 101,
+      "text" : "cinco",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 102,
+      "end" : 109,
+      "text" : "marchas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t21",
+      "begin" : 109,
+      "end" : 110,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t22",
+      "begin" : 111,
+      "end" : 114,
+      "text" : "2.3",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t23",
+      "begin" : 115,
+      "end" : 123,
+      "text" : "Multijet",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t24",
+      "begin" : 124,
+      "end" : 126,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t25",
+      "begin" : 127,
+      "end" : 130,
+      "text" : "130",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t26",
+      "begin" : 131,
+      "end" : 133,
+      "text" : "ou",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t27",
+      "begin" : 134,
+      "end" : 137,
+      "text" : "150",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t28",
+      "begin" : 138,
+      "end" : 140,
+      "text" : "cv",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t29",
+      "begin" : 141,
+      "end" : 144,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t30",
+      "begin" : 145,
+      "end" : 156,
+      "text" : "transmissão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t31",
+      "begin" : 157,
+      "end" : 163,
+      "text" : "manual",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t32",
+      "begin" : 164,
+      "end" : 166,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t33",
+      "begin" : 167,
+      "end" : 171,
+      "text" : "seis",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t34",
+      "begin" : 172,
+      "end" : 179,
+      "text" : "marchas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t35",
+      "begin" : 180,
+      "end" : 181,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t36",
+      "begin" : 182,
+      "end" : 183,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t37",
+      "begin" : 184,
+      "end" : 187,
+      "text" : "3.0",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t38",
+      "begin" : 188,
+      "end" : 196,
+      "text" : "Multijet",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t39",
+      "begin" : 197,
+      "end" : 199,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t40",
+      "begin" : 200,
+      "end" : 203,
+      "text" : "180",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t41",
+      "begin" : 204,
+      "end" : 206,
+      "text" : "cv",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t42",
+      "begin" : 207,
+      "end" : 210,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t43",
+      "begin" : 211,
+      "end" : 212,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t44",
+      "begin" : 213,
+      "end" : 219,
+      "text" : "câmbio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t45",
+      "begin" : 220,
+      "end" : 227,
+      "text" : "Comfort",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t46",
+      "begin" : 228,
+      "end" : 233,
+      "text" : "Matic",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t47",
+      "begin" : 233,
+      "end" : 234,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 20,
+    "end" : 26,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DESEMPENHO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DESEMPENHO",
+    "begin" : 37,
+    "end" : 44,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 79,
+    "end" : 85,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m4",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 86,
+    "end" : 92,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m5",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 157,
+    "end" : 163,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m6",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 213,
+    "end" : 219,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s0-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m2", "s0-m1" ]
+  }, {
+    "id" : "s0-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m3", "s0-m1" ]
+  }, {
+    "id" : "s0-r3",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m4", "s0-m1" ]
+  }, {
+    "id" : "s0-r4",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m5", "s0-m1" ]
+  }, {
+    "id" : "s0-r5",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m6", "s0-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

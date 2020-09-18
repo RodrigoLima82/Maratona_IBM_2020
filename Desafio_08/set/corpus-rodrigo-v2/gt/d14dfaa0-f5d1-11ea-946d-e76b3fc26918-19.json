@@ -1,0 +1,413 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-19",
+  "name" : "train_20.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "Interior do Fiat Argo possuí um plástico muito rígido, fica fazendo barulho direto no interior, puxador de porta, batendo plástico de painel a partir dos 1000km, falta luz para quem está atrás só tem na parte da frente, qualidade dos plasticos de revestimento baixa, fica descolando principalmente os porta copos.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600010662738,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 313,
+    "text" : "Interior do Fiat Argo possuí um plástico muito rígido, fica fazendo barulho direto no interior, puxador de porta, batendo plástico de painel a partir dos 1000km, falta luz para quem está atrás só tem na parte da frente, qualidade dos plasticos de revestimento baixa, fica descolando principalmente os porta copos.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 8,
+      "text" : "Interior",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 9,
+      "end" : 11,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 12,
+      "end" : 16,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 17,
+      "end" : 21,
+      "text" : "Argo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 22,
+      "end" : 28,
+      "text" : "possuí",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 29,
+      "end" : 31,
+      "text" : "um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 32,
+      "end" : 40,
+      "text" : "plástico",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 41,
+      "end" : 46,
+      "text" : "muito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 47,
+      "end" : 53,
+      "text" : "rígido",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 53,
+      "end" : 54,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 55,
+      "end" : 59,
+      "text" : "fica",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 60,
+      "end" : 67,
+      "text" : "fazendo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 68,
+      "end" : 75,
+      "text" : "barulho",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 76,
+      "end" : 82,
+      "text" : "direto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 83,
+      "end" : 85,
+      "text" : "no",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 86,
+      "end" : 94,
+      "text" : "interior",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 94,
+      "end" : 95,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 96,
+      "end" : 103,
+      "text" : "puxador",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 104,
+      "end" : 106,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 107,
+      "end" : 112,
+      "text" : "porta",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 112,
+      "end" : 113,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t21",
+      "begin" : 114,
+      "end" : 121,
+      "text" : "batendo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t22",
+      "begin" : 122,
+      "end" : 130,
+      "text" : "plástico",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t23",
+      "begin" : 131,
+      "end" : 133,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t24",
+      "begin" : 134,
+      "end" : 140,
+      "text" : "painel",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t25",
+      "begin" : 141,
+      "end" : 142,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t26",
+      "begin" : 143,
+      "end" : 149,
+      "text" : "partir",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t27",
+      "begin" : 150,
+      "end" : 153,
+      "text" : "dos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t28",
+      "begin" : 154,
+      "end" : 160,
+      "text" : "1000km",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t29",
+      "begin" : 160,
+      "end" : 161,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t30",
+      "begin" : 162,
+      "end" : 167,
+      "text" : "falta",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t31",
+      "begin" : 168,
+      "end" : 171,
+      "text" : "luz",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t32",
+      "begin" : 172,
+      "end" : 176,
+      "text" : "para",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t33",
+      "begin" : 177,
+      "end" : 181,
+      "text" : "quem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t34",
+      "begin" : 182,
+      "end" : 186,
+      "text" : "está",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t35",
+      "begin" : 187,
+      "end" : 192,
+      "text" : "atrás",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t36",
+      "begin" : 193,
+      "end" : 195,
+      "text" : "só",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t37",
+      "begin" : 196,
+      "end" : 199,
+      "text" : "tem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t38",
+      "begin" : 200,
+      "end" : 202,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t39",
+      "begin" : 203,
+      "end" : 208,
+      "text" : "parte",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t40",
+      "begin" : 209,
+      "end" : 211,
+      "text" : "da",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t41",
+      "begin" : 212,
+      "end" : 218,
+      "text" : "frente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t42",
+      "begin" : 218,
+      "end" : 219,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t43",
+      "begin" : 220,
+      "end" : 229,
+      "text" : "qualidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t44",
+      "begin" : 230,
+      "end" : 233,
+      "text" : "dos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t45",
+      "begin" : 234,
+      "end" : 243,
+      "text" : "plasticos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t46",
+      "begin" : 244,
+      "end" : 246,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t47",
+      "begin" : 247,
+      "end" : 259,
+      "text" : "revestimento",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t48",
+      "begin" : 260,
+      "end" : 265,
+      "text" : "baixa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t49",
+      "begin" : 265,
+      "end" : 266,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t50",
+      "begin" : 267,
+      "end" : 271,
+      "text" : "fica",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t51",
+      "begin" : 272,
+      "end" : 282,
+      "text" : "descolando",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t52",
+      "begin" : 283,
+      "end" : 297,
+      "text" : "principalmente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t53",
+      "begin" : 298,
+      "end" : 300,
+      "text" : "os",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t54",
+      "begin" : 301,
+      "end" : 306,
+      "text" : "porta",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t55",
+      "begin" : 307,
+      "end" : 312,
+      "text" : "copos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t56",
+      "begin" : 312,
+      "end" : 313,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 17,
+    "end" : 21,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 96,
+    "end" : 112,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 301,
+    "end" : 312,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s0-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m2", "s0-m1" ]
+  }, {
+    "id" : "s0-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m3", "s0-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

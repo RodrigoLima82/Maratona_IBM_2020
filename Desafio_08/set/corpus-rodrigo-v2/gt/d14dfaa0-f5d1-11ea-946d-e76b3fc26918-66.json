@@ -1,0 +1,493 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-66",
+  "name" : "train_67.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "Estou satisfeito com o Cronos Drive 1.3, não tenho do que reclamar. É um carro econômico, bonito e confortável e nunca me deixou na mão. É muito econômico com o álcool. A tela multi-mídia é excelente, prática e eficiente. Um porta-malas bem espaçoso e com um ótimo acabamento trás uma aparência jovial e bonita.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600012784851,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 67,
+    "text" : "Estou satisfeito com o Cronos Drive 1.3, não tenho do que reclamar.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 5,
+      "text" : "Estou",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 6,
+      "end" : 16,
+      "text" : "satisfeito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 17,
+      "end" : 20,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 21,
+      "end" : 22,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 23,
+      "end" : 29,
+      "text" : "Cronos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 30,
+      "end" : 35,
+      "text" : "Drive",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 36,
+      "end" : 39,
+      "text" : "1.3",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 39,
+      "end" : 40,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 41,
+      "end" : 44,
+      "text" : "não",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 45,
+      "end" : 50,
+      "text" : "tenho",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 51,
+      "end" : 53,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 54,
+      "end" : 57,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 58,
+      "end" : 66,
+      "text" : "reclamar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 66,
+      "end" : 67,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 68,
+    "end" : 136,
+    "text" : "É um carro econômico, bonito e confortável e nunca me deixou na mão.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 68,
+      "end" : 69,
+      "text" : "É",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 70,
+      "end" : 72,
+      "text" : "um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 73,
+      "end" : 78,
+      "text" : "carro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 79,
+      "end" : 88,
+      "text" : "econômico",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 88,
+      "end" : 89,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 90,
+      "end" : 96,
+      "text" : "bonito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 97,
+      "end" : 98,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 99,
+      "end" : 110,
+      "text" : "confortável",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 111,
+      "end" : 112,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 113,
+      "end" : 118,
+      "text" : "nunca",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 119,
+      "end" : 121,
+      "text" : "me",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 122,
+      "end" : 128,
+      "text" : "deixou",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 129,
+      "end" : 131,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 132,
+      "end" : 135,
+      "text" : "mão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 135,
+      "end" : 136,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s2",
+    "begin" : 137,
+    "end" : 168,
+    "text" : "É muito econômico com o álcool.",
+    "tokens" : [ {
+      "id" : "s2-t0",
+      "begin" : 137,
+      "end" : 138,
+      "text" : "É",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t1",
+      "begin" : 139,
+      "end" : 144,
+      "text" : "muito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t2",
+      "begin" : 145,
+      "end" : 154,
+      "text" : "econômico",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t3",
+      "begin" : 155,
+      "end" : 158,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t4",
+      "begin" : 159,
+      "end" : 160,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t5",
+      "begin" : 161,
+      "end" : 167,
+      "text" : "álcool",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t6",
+      "begin" : 167,
+      "end" : 168,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s3",
+    "begin" : 169,
+    "end" : 221,
+    "text" : "A tela multi-mídia é excelente, prática e eficiente.",
+    "tokens" : [ {
+      "id" : "s3-t0",
+      "begin" : 169,
+      "end" : 170,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t1",
+      "begin" : 171,
+      "end" : 175,
+      "text" : "tela",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t2",
+      "begin" : 176,
+      "end" : 187,
+      "text" : "multi-mídia",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t3",
+      "begin" : 188,
+      "end" : 189,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t4",
+      "begin" : 190,
+      "end" : 199,
+      "text" : "excelente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t5",
+      "begin" : 199,
+      "end" : 200,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t6",
+      "begin" : 201,
+      "end" : 208,
+      "text" : "prática",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t7",
+      "begin" : 209,
+      "end" : 210,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t8",
+      "begin" : 211,
+      "end" : 220,
+      "text" : "eficiente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t9",
+      "begin" : 220,
+      "end" : 221,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s4",
+    "begin" : 222,
+    "end" : 311,
+    "text" : "Um porta-malas bem espaçoso e com um ótimo acabamento trás uma aparência jovial e bonita.",
+    "tokens" : [ {
+      "id" : "s4-t0",
+      "begin" : 222,
+      "end" : 224,
+      "text" : "Um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t1",
+      "begin" : 225,
+      "end" : 236,
+      "text" : "porta-malas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t2",
+      "begin" : 237,
+      "end" : 240,
+      "text" : "bem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t3",
+      "begin" : 241,
+      "end" : 249,
+      "text" : "espaçoso",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t4",
+      "begin" : 250,
+      "end" : 251,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t5",
+      "begin" : 252,
+      "end" : 255,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t6",
+      "begin" : 256,
+      "end" : 258,
+      "text" : "um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t7",
+      "begin" : 259,
+      "end" : 264,
+      "text" : "ótimo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t8",
+      "begin" : 265,
+      "end" : 275,
+      "text" : "acabamento",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t9",
+      "begin" : 276,
+      "end" : 280,
+      "text" : "trás",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t10",
+      "begin" : 281,
+      "end" : 284,
+      "text" : "uma",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t11",
+      "begin" : 285,
+      "end" : 294,
+      "text" : "aparência",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t12",
+      "begin" : 295,
+      "end" : 301,
+      "text" : "jovial",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t13",
+      "begin" : 302,
+      "end" : 303,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t14",
+      "begin" : 304,
+      "end" : 310,
+      "text" : "bonita",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t15",
+      "begin" : 310,
+      "end" : 311,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 23,
+    "end" : 29,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 79,
+    "end" : 88,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONFORTO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONFORTO",
+    "begin" : 99,
+    "end" : 110,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 145,
+    "end" : 154,
+    "inCoref" : false
+  }, {
+    "id" : "s3-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 171,
+    "end" : 175,
+    "inCoref" : false
+  }, {
+    "id" : "s4-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 225,
+    "end" : 236,
+    "inCoref" : false
+  } ],
+  "relations" : [ ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

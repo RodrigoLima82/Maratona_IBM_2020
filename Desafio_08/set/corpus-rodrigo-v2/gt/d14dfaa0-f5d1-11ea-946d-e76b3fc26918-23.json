@@ -1,0 +1,1025 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-23",
+  "name" : "train_24.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "Estilo, aparência, desenho sofisticado e moderno computador de bordo funções importantes e o Argo possuí todas elas, multimídia e sistema de som de boa qualidade Espaço interno harmonioso, ar-condicionado esfria bem, mesmo em temperatura externa alta porta malas satisfatório para categoria Motor é o destaque desta versão, bem construido e com bom desempenho [torque] em baixa-média rotação com boa elasticidade para um motor 1.3 e baixo consumo na estrada, chegando a atingir 21,7 Km/l com média de velocidade 80 Km/h, e na cidade start-stop ajuda a atingir entre 12-13 km/l corroceria bem construida e bem estável, direção leve e precisa média desvalorização, peças e seguro em preço médio.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600010917309,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 693,
+    "text" : "Estilo, aparência, desenho sofisticado e moderno computador de bordo funções importantes e o Argo possuí todas elas, multimídia e sistema de som de boa qualidade Espaço interno harmonioso, ar-condicionado esfria bem, mesmo em temperatura externa alta porta malas satisfatório para categoria Motor é o destaque desta versão, bem construido e com bom desempenho [torque] em baixa-média rotação com boa elasticidade para um motor 1.3 e baixo consumo na estrada, chegando a atingir 21,7 Km/l com média de velocidade 80 Km/h, e na cidade start-stop ajuda a atingir entre 12-13 km/l corroceria bem construida e bem estável, direção leve e precisa média desvalorização, peças e seguro em preço médio.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 6,
+      "text" : "Estilo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 6,
+      "end" : 7,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 8,
+      "end" : 17,
+      "text" : "aparência",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 17,
+      "end" : 18,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 19,
+      "end" : 26,
+      "text" : "desenho",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 27,
+      "end" : 38,
+      "text" : "sofisticado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 39,
+      "end" : 40,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 41,
+      "end" : 48,
+      "text" : "moderno",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 49,
+      "end" : 59,
+      "text" : "computador",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 60,
+      "end" : 62,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 63,
+      "end" : 68,
+      "text" : "bordo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 69,
+      "end" : 76,
+      "text" : "funções",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 77,
+      "end" : 88,
+      "text" : "importantes",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 89,
+      "end" : 90,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 91,
+      "end" : 92,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 93,
+      "end" : 97,
+      "text" : "Argo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 98,
+      "end" : 104,
+      "text" : "possuí",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 105,
+      "end" : 110,
+      "text" : "todas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 111,
+      "end" : 115,
+      "text" : "elas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 115,
+      "end" : 116,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 117,
+      "end" : 127,
+      "text" : "multimídia",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t21",
+      "begin" : 128,
+      "end" : 129,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t22",
+      "begin" : 130,
+      "end" : 137,
+      "text" : "sistema",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t23",
+      "begin" : 138,
+      "end" : 140,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t24",
+      "begin" : 141,
+      "end" : 144,
+      "text" : "som",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t25",
+      "begin" : 145,
+      "end" : 147,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t26",
+      "begin" : 148,
+      "end" : 151,
+      "text" : "boa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t27",
+      "begin" : 152,
+      "end" : 161,
+      "text" : "qualidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t28",
+      "begin" : 162,
+      "end" : 168,
+      "text" : "Espaço",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t29",
+      "begin" : 169,
+      "end" : 176,
+      "text" : "interno",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t30",
+      "begin" : 177,
+      "end" : 187,
+      "text" : "harmonioso",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t31",
+      "begin" : 187,
+      "end" : 188,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t32",
+      "begin" : 189,
+      "end" : 204,
+      "text" : "ar-condicionado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t33",
+      "begin" : 205,
+      "end" : 211,
+      "text" : "esfria",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t34",
+      "begin" : 212,
+      "end" : 215,
+      "text" : "bem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t35",
+      "begin" : 215,
+      "end" : 216,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t36",
+      "begin" : 217,
+      "end" : 222,
+      "text" : "mesmo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t37",
+      "begin" : 223,
+      "end" : 225,
+      "text" : "em",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t38",
+      "begin" : 226,
+      "end" : 237,
+      "text" : "temperatura",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t39",
+      "begin" : 238,
+      "end" : 245,
+      "text" : "externa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t40",
+      "begin" : 246,
+      "end" : 250,
+      "text" : "alta",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t41",
+      "begin" : 251,
+      "end" : 256,
+      "text" : "porta",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t42",
+      "begin" : 257,
+      "end" : 262,
+      "text" : "malas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t43",
+      "begin" : 263,
+      "end" : 275,
+      "text" : "satisfatório",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t44",
+      "begin" : 276,
+      "end" : 280,
+      "text" : "para",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t45",
+      "begin" : 281,
+      "end" : 290,
+      "text" : "categoria",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t46",
+      "begin" : 291,
+      "end" : 296,
+      "text" : "Motor",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t47",
+      "begin" : 297,
+      "end" : 298,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t48",
+      "begin" : 299,
+      "end" : 300,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t49",
+      "begin" : 301,
+      "end" : 309,
+      "text" : "destaque",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t50",
+      "begin" : 310,
+      "end" : 315,
+      "text" : "desta",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t51",
+      "begin" : 316,
+      "end" : 322,
+      "text" : "versão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t52",
+      "begin" : 322,
+      "end" : 323,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t53",
+      "begin" : 324,
+      "end" : 327,
+      "text" : "bem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t54",
+      "begin" : 328,
+      "end" : 338,
+      "text" : "construido",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t55",
+      "begin" : 339,
+      "end" : 340,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t56",
+      "begin" : 341,
+      "end" : 344,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t57",
+      "begin" : 345,
+      "end" : 348,
+      "text" : "bom",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t58",
+      "begin" : 349,
+      "end" : 359,
+      "text" : "desempenho",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t59",
+      "begin" : 360,
+      "end" : 361,
+      "text" : "[",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t60",
+      "begin" : 361,
+      "end" : 367,
+      "text" : "torque",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t61",
+      "begin" : 367,
+      "end" : 368,
+      "text" : "]",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t62",
+      "begin" : 369,
+      "end" : 371,
+      "text" : "em",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t63",
+      "begin" : 372,
+      "end" : 383,
+      "text" : "baixa-média",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t64",
+      "begin" : 384,
+      "end" : 391,
+      "text" : "rotação",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t65",
+      "begin" : 392,
+      "end" : 395,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t66",
+      "begin" : 396,
+      "end" : 399,
+      "text" : "boa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t67",
+      "begin" : 400,
+      "end" : 412,
+      "text" : "elasticidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t68",
+      "begin" : 413,
+      "end" : 417,
+      "text" : "para",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t69",
+      "begin" : 418,
+      "end" : 420,
+      "text" : "um",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t70",
+      "begin" : 421,
+      "end" : 426,
+      "text" : "motor",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t71",
+      "begin" : 427,
+      "end" : 430,
+      "text" : "1.3",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t72",
+      "begin" : 431,
+      "end" : 432,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t73",
+      "begin" : 433,
+      "end" : 438,
+      "text" : "baixo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t74",
+      "begin" : 439,
+      "end" : 446,
+      "text" : "consumo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t75",
+      "begin" : 447,
+      "end" : 449,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t76",
+      "begin" : 450,
+      "end" : 457,
+      "text" : "estrada",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t77",
+      "begin" : 457,
+      "end" : 458,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t78",
+      "begin" : 459,
+      "end" : 467,
+      "text" : "chegando",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t79",
+      "begin" : 468,
+      "end" : 469,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t80",
+      "begin" : 470,
+      "end" : 477,
+      "text" : "atingir",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t81",
+      "begin" : 478,
+      "end" : 482,
+      "text" : "21,7",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t82",
+      "begin" : 483,
+      "end" : 485,
+      "text" : "Km",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t83",
+      "begin" : 485,
+      "end" : 486,
+      "text" : "/",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t84",
+      "begin" : 486,
+      "end" : 487,
+      "text" : "l",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t85",
+      "begin" : 488,
+      "end" : 491,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t86",
+      "begin" : 492,
+      "end" : 497,
+      "text" : "média",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t87",
+      "begin" : 498,
+      "end" : 500,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t88",
+      "begin" : 501,
+      "end" : 511,
+      "text" : "velocidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t89",
+      "begin" : 512,
+      "end" : 514,
+      "text" : "80",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t90",
+      "begin" : 515,
+      "end" : 517,
+      "text" : "Km",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t91",
+      "begin" : 517,
+      "end" : 518,
+      "text" : "/",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t92",
+      "begin" : 518,
+      "end" : 519,
+      "text" : "h",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t93",
+      "begin" : 519,
+      "end" : 520,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t94",
+      "begin" : 521,
+      "end" : 522,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t95",
+      "begin" : 523,
+      "end" : 525,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t96",
+      "begin" : 526,
+      "end" : 532,
+      "text" : "cidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t97",
+      "begin" : 533,
+      "end" : 543,
+      "text" : "start-stop",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t98",
+      "begin" : 544,
+      "end" : 549,
+      "text" : "ajuda",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t99",
+      "begin" : 550,
+      "end" : 551,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t100",
+      "begin" : 552,
+      "end" : 559,
+      "text" : "atingir",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t101",
+      "begin" : 560,
+      "end" : 565,
+      "text" : "entre",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t102",
+      "begin" : 566,
+      "end" : 571,
+      "text" : "12-13",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t103",
+      "begin" : 572,
+      "end" : 576,
+      "text" : "km/l",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t104",
+      "begin" : 577,
+      "end" : 587,
+      "text" : "corroceria",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t105",
+      "begin" : 588,
+      "end" : 591,
+      "text" : "bem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t106",
+      "begin" : 592,
+      "end" : 602,
+      "text" : "construida",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t107",
+      "begin" : 603,
+      "end" : 604,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t108",
+      "begin" : 605,
+      "end" : 608,
+      "text" : "bem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t109",
+      "begin" : 609,
+      "end" : 616,
+      "text" : "estável",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t110",
+      "begin" : 616,
+      "end" : 617,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t111",
+      "begin" : 618,
+      "end" : 625,
+      "text" : "direção",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t112",
+      "begin" : 626,
+      "end" : 630,
+      "text" : "leve",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t113",
+      "begin" : 631,
+      "end" : 632,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t114",
+      "begin" : 633,
+      "end" : 640,
+      "text" : "precisa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t115",
+      "begin" : 641,
+      "end" : 646,
+      "text" : "média",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t116",
+      "begin" : 647,
+      "end" : 661,
+      "text" : "desvalorização",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t117",
+      "begin" : 661,
+      "end" : 662,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t118",
+      "begin" : 663,
+      "end" : 668,
+      "text" : "peças",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t119",
+      "begin" : 669,
+      "end" : 670,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t120",
+      "begin" : 671,
+      "end" : 677,
+      "text" : "seguro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t121",
+      "begin" : 678,
+      "end" : 680,
+      "text" : "em",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t122",
+      "begin" : 681,
+      "end" : 686,
+      "text" : "preço",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t123",
+      "begin" : 687,
+      "end" : 692,
+      "text" : "médio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t124",
+      "begin" : 692,
+      "end" : 693,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DESIGN",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DESIGN",
+    "begin" : 0,
+    "end" : 6,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m8",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DESIGN",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DESIGN",
+    "begin" : 41,
+    "end" : 48,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 49,
+    "end" : 68,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 93,
+    "end" : 97,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m4",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 117,
+    "end" : 127,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m9",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 141,
+    "end" : 144,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m10",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONFORTO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONFORTO",
+    "begin" : 162,
+    "end" : 176,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m5",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 189,
+    "end" : 204,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m6",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 251,
+    "end" : 262,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m11",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DESEMPENHO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DESEMPENHO",
+    "begin" : 291,
+    "end" : 296,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m12",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DESEMPENHO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DESEMPENHO",
+    "begin" : 421,
+    "end" : 426,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m13",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 439,
+    "end" : 446,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m14",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 478,
+    "end" : 487,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m15",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 566,
+    "end" : 576,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m16",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MANUTENCAO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MANUTENCAO",
+    "begin" : 663,
+    "end" : 668,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s0-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m3", "s0-m1" ]
+  }, {
+    "id" : "s0-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m8", "s0-m1" ]
+  }, {
+    "id" : "s0-r3",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m2", "s0-m1" ]
+  }, {
+    "id" : "s0-r4",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m5", "s0-m1" ]
+  }, {
+    "id" : "s0-r5",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m10", "s0-m1" ]
+  }, {
+    "id" : "s0-r6",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m9", "s0-m1" ]
+  }, {
+    "id" : "s0-r7",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m4", "s0-m1" ]
+  }, {
+    "id" : "s0-r8",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m6", "s0-m1" ]
+  }, {
+    "id" : "s0-r9",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m11", "s0-m1" ]
+  }, {
+    "id" : "s0-r10",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m12", "s0-m1" ]
+  }, {
+    "id" : "s0-r11",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m13", "s0-m1" ]
+  }, {
+    "id" : "s0-r12",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m14", "s0-m1" ]
+  }, {
+    "id" : "s0-r13",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m15", "s0-m1" ]
+  }, {
+    "id" : "s0-r14",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s0-m16", "s0-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

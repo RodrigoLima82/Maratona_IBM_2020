@@ -1,0 +1,450 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-0",
+  "name" : "train_5.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "Sempre com gasolina no tanque, registrou médias de 11,8 km/l no ciclo urbano e 15,7 km/l no rodoviário, enquanto outros da cagegoria cravam em média 11,5 km/l e 15,2 km/l, respectivamente. Mais gastão, as médias do Jeep Renegade ficam em 9,6 km/l na cidade e 12 km/l na estrada.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600012190951,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 188,
+    "text" : "Sempre com gasolina no tanque, registrou médias de 11,8 km/l no ciclo urbano e 15,7 km/l no rodoviário, enquanto outros da cagegoria cravam em média 11,5 km/l e 15,2 km/l, respectivamente.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 6,
+      "text" : "Sempre",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 7,
+      "end" : 10,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 11,
+      "end" : 19,
+      "text" : "gasolina",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 20,
+      "end" : 22,
+      "text" : "no",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 23,
+      "end" : 29,
+      "text" : "tanque",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 29,
+      "end" : 30,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 31,
+      "end" : 40,
+      "text" : "registrou",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 41,
+      "end" : 47,
+      "text" : "médias",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 48,
+      "end" : 50,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 51,
+      "end" : 55,
+      "text" : "11,8",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 56,
+      "end" : 60,
+      "text" : "km/l",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 61,
+      "end" : 63,
+      "text" : "no",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 64,
+      "end" : 69,
+      "text" : "ciclo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 70,
+      "end" : 76,
+      "text" : "urbano",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 77,
+      "end" : 78,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 79,
+      "end" : 83,
+      "text" : "15,7",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 84,
+      "end" : 88,
+      "text" : "km/l",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 89,
+      "end" : 91,
+      "text" : "no",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 92,
+      "end" : 102,
+      "text" : "rodoviário",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 102,
+      "end" : 103,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 104,
+      "end" : 112,
+      "text" : "enquanto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t21",
+      "begin" : 113,
+      "end" : 119,
+      "text" : "outros",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t22",
+      "begin" : 120,
+      "end" : 122,
+      "text" : "da",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t23",
+      "begin" : 123,
+      "end" : 132,
+      "text" : "cagegoria",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t24",
+      "begin" : 133,
+      "end" : 139,
+      "text" : "cravam",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t25",
+      "begin" : 140,
+      "end" : 142,
+      "text" : "em",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t26",
+      "begin" : 143,
+      "end" : 148,
+      "text" : "média",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t27",
+      "begin" : 149,
+      "end" : 153,
+      "text" : "11,5",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t28",
+      "begin" : 154,
+      "end" : 158,
+      "text" : "km/l",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t29",
+      "begin" : 159,
+      "end" : 160,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t30",
+      "begin" : 161,
+      "end" : 165,
+      "text" : "15,2",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t31",
+      "begin" : 166,
+      "end" : 170,
+      "text" : "km/l",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t32",
+      "begin" : 170,
+      "end" : 171,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t33",
+      "begin" : 172,
+      "end" : 187,
+      "text" : "respectivamente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t34",
+      "begin" : 187,
+      "end" : 188,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 189,
+    "end" : 278,
+    "text" : "Mais gastão, as médias do Jeep Renegade ficam em 9,6 km/l na cidade e 12 km/l na estrada.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 189,
+      "end" : 193,
+      "text" : "Mais",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 194,
+      "end" : 200,
+      "text" : "gastão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 200,
+      "end" : 201,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 202,
+      "end" : 204,
+      "text" : "as",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 205,
+      "end" : 211,
+      "text" : "médias",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 212,
+      "end" : 214,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 215,
+      "end" : 219,
+      "text" : "Jeep",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 220,
+      "end" : 228,
+      "text" : "Renegade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 229,
+      "end" : 234,
+      "text" : "ficam",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 235,
+      "end" : 237,
+      "text" : "em",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 238,
+      "end" : 241,
+      "text" : "9,6",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 242,
+      "end" : 246,
+      "text" : "km/l",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 247,
+      "end" : 249,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 250,
+      "end" : 256,
+      "text" : "cidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 257,
+      "end" : 258,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 259,
+      "end" : 261,
+      "text" : "12",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t16",
+      "begin" : 262,
+      "end" : 266,
+      "text" : "km/l",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t17",
+      "begin" : 267,
+      "end" : 269,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t18",
+      "begin" : 270,
+      "end" : 277,
+      "text" : "estrada",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t19",
+      "begin" : 277,
+      "end" : 278,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 51,
+    "end" : 60,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 79,
+    "end" : 88,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 149,
+    "end" : 158,
+    "inCoref" : false
+  }, {
+    "id" : "s0-m4",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 161,
+    "end" : 170,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 220,
+    "end" : 228,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 238,
+    "end" : 246,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 259,
+    "end" : 266,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s1-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m2", "s1-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

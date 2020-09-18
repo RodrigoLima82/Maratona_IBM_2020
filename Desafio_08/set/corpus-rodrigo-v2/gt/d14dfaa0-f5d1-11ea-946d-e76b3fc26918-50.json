@@ -1,0 +1,703 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-50",
+  "name" : "train_51_1.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "Muito gostoso de dirigir, o Fiat 500 é versátil no trânsito. O Fiat 500 é Extremamente econômico, o meu faz 8.5 km/L na cidade e 11.5 na estrada no álcool, e possui uma ótima ergonomia e estabilidade. O Fiat 500 é Lotado de equipamentos e acessórios que só se vê em carros de luxo de maior porte. No Fiat 500 O câmbio Dualogic é muito eficaz e de fácil manuseio, atende perfeitamente o que o carro pede.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600012268678,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 60,
+    "text" : "Muito gostoso de dirigir, o Fiat 500 é versátil no trânsito.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 5,
+      "text" : "Muito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 6,
+      "end" : 13,
+      "text" : "gostoso",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 14,
+      "end" : 16,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 17,
+      "end" : 24,
+      "text" : "dirigir",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 24,
+      "end" : 25,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 26,
+      "end" : 27,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 28,
+      "end" : 32,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 33,
+      "end" : 36,
+      "text" : "500",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 37,
+      "end" : 38,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 39,
+      "end" : 47,
+      "text" : "versátil",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 48,
+      "end" : 50,
+      "text" : "no",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 51,
+      "end" : 59,
+      "text" : "trânsito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 59,
+      "end" : 60,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 61,
+    "end" : 200,
+    "text" : "O Fiat 500 é Extremamente econômico, o meu faz 8.5 km/L na cidade e 11.5 na estrada no álcool, e possui uma ótima ergonomia e estabilidade.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 61,
+      "end" : 62,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 63,
+      "end" : 67,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 68,
+      "end" : 71,
+      "text" : "500",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 72,
+      "end" : 73,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 74,
+      "end" : 86,
+      "text" : "Extremamente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 87,
+      "end" : 96,
+      "text" : "econômico",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 96,
+      "end" : 97,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 98,
+      "end" : 99,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 100,
+      "end" : 103,
+      "text" : "meu",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 104,
+      "end" : 107,
+      "text" : "faz",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 108,
+      "end" : 111,
+      "text" : "8.5",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 112,
+      "end" : 116,
+      "text" : "km/L",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 117,
+      "end" : 119,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 120,
+      "end" : 126,
+      "text" : "cidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 127,
+      "end" : 128,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 129,
+      "end" : 133,
+      "text" : "11.5",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t16",
+      "begin" : 134,
+      "end" : 136,
+      "text" : "na",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t17",
+      "begin" : 137,
+      "end" : 144,
+      "text" : "estrada",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t18",
+      "begin" : 145,
+      "end" : 147,
+      "text" : "no",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t19",
+      "begin" : 148,
+      "end" : 154,
+      "text" : "álcool",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t20",
+      "begin" : 154,
+      "end" : 155,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t21",
+      "begin" : 156,
+      "end" : 157,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t22",
+      "begin" : 158,
+      "end" : 164,
+      "text" : "possui",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t23",
+      "begin" : 165,
+      "end" : 168,
+      "text" : "uma",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t24",
+      "begin" : 169,
+      "end" : 174,
+      "text" : "ótima",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t25",
+      "begin" : 175,
+      "end" : 184,
+      "text" : "ergonomia",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t26",
+      "begin" : 185,
+      "end" : 186,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t27",
+      "begin" : 187,
+      "end" : 199,
+      "text" : "estabilidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t28",
+      "begin" : 199,
+      "end" : 200,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s2",
+    "begin" : 201,
+    "end" : 296,
+    "text" : "O Fiat 500 é Lotado de equipamentos e acessórios que só se vê em carros de luxo de maior porte.",
+    "tokens" : [ {
+      "id" : "s2-t0",
+      "begin" : 201,
+      "end" : 202,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t1",
+      "begin" : 203,
+      "end" : 207,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t2",
+      "begin" : 208,
+      "end" : 211,
+      "text" : "500",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t3",
+      "begin" : 212,
+      "end" : 213,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t4",
+      "begin" : 214,
+      "end" : 220,
+      "text" : "Lotado",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t5",
+      "begin" : 221,
+      "end" : 223,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t6",
+      "begin" : 224,
+      "end" : 236,
+      "text" : "equipamentos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t7",
+      "begin" : 237,
+      "end" : 238,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t8",
+      "begin" : 239,
+      "end" : 249,
+      "text" : "acessórios",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t9",
+      "begin" : 250,
+      "end" : 253,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t10",
+      "begin" : 254,
+      "end" : 256,
+      "text" : "só",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t11",
+      "begin" : 257,
+      "end" : 259,
+      "text" : "se",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t12",
+      "begin" : 260,
+      "end" : 262,
+      "text" : "vê",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t13",
+      "begin" : 263,
+      "end" : 265,
+      "text" : "em",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t14",
+      "begin" : 266,
+      "end" : 272,
+      "text" : "carros",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t15",
+      "begin" : 273,
+      "end" : 275,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t16",
+      "begin" : 276,
+      "end" : 280,
+      "text" : "luxo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t17",
+      "begin" : 281,
+      "end" : 283,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t18",
+      "begin" : 284,
+      "end" : 289,
+      "text" : "maior",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t19",
+      "begin" : 290,
+      "end" : 295,
+      "text" : "porte",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t20",
+      "begin" : 295,
+      "end" : 296,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s3",
+    "begin" : 297,
+    "end" : 403,
+    "text" : "No Fiat 500 O câmbio Dualogic é muito eficaz e de fácil manuseio, atende perfeitamente o que o carro pede.",
+    "tokens" : [ {
+      "id" : "s3-t0",
+      "begin" : 297,
+      "end" : 299,
+      "text" : "No",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t1",
+      "begin" : 300,
+      "end" : 304,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t2",
+      "begin" : 305,
+      "end" : 308,
+      "text" : "500",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t3",
+      "begin" : 309,
+      "end" : 310,
+      "text" : "O",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t4",
+      "begin" : 311,
+      "end" : 317,
+      "text" : "câmbio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t5",
+      "begin" : 318,
+      "end" : 326,
+      "text" : "Dualogic",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t6",
+      "begin" : 327,
+      "end" : 328,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t7",
+      "begin" : 329,
+      "end" : 334,
+      "text" : "muito",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t8",
+      "begin" : 335,
+      "end" : 341,
+      "text" : "eficaz",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t9",
+      "begin" : 342,
+      "end" : 343,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t10",
+      "begin" : 344,
+      "end" : 346,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t11",
+      "begin" : 347,
+      "end" : 352,
+      "text" : "fácil",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t12",
+      "begin" : 353,
+      "end" : 361,
+      "text" : "manuseio",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t13",
+      "begin" : 361,
+      "end" : 362,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t14",
+      "begin" : 363,
+      "end" : 369,
+      "text" : "atende",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t15",
+      "begin" : 370,
+      "end" : 383,
+      "text" : "perfeitamente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t16",
+      "begin" : 384,
+      "end" : 385,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t17",
+      "begin" : 386,
+      "end" : 389,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t18",
+      "begin" : 390,
+      "end" : 391,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t19",
+      "begin" : 392,
+      "end" : 397,
+      "text" : "carro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t20",
+      "begin" : 398,
+      "end" : 402,
+      "text" : "pede",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t21",
+      "begin" : 402,
+      "end" : 403,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 28,
+    "end" : 36,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 63,
+    "end" : 71,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 87,
+    "end" : 96,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 108,
+    "end" : 116,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m4",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 129,
+    "end" : 133,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m5",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "SEGURANCA",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "SEGURANCA",
+    "begin" : 187,
+    "end" : 199,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 203,
+    "end" : 211,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 239,
+    "end" : 249,
+    "inCoref" : false
+  }, {
+    "id" : "s3-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 300,
+    "end" : 308,
+    "inCoref" : false
+  }, {
+    "id" : "s3-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 311,
+    "end" : 317,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s1-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m2", "s1-m1" ]
+  }, {
+    "id" : "s1-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m3", "s1-m1" ]
+  }, {
+    "id" : "s1-r3",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m4", "s1-m1" ]
+  }, {
+    "id" : "s1-r4",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s1-m5", "s1-m1" ]
+  }, {
+    "id" : "s2-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s2-m2", "s2-m1" ]
+  }, {
+    "id" : "s3-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s3-m2", "s3-m1" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

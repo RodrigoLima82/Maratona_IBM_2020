@@ -1,0 +1,698 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-57",
+  "name" : "train_58.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "Nosso primeiro contato com o Cronos foi com a versão top de linha, Precision 1.8 automática, aqui apresentada. Bem equipada, traz, de série, controles de estabilidade e tração e indicador de pressão dos pneus, e custa R$ 69.990. Mas os pacotes com rodas aro 17, ar digital, couro, chave presencial, retrovisor interno eletrocrômico, airbags laterais e câmera de ré são opcionais que podem levar o preço final do Cronos a cerca de R$ 80.000.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600012501222,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 110,
+    "text" : "Nosso primeiro contato com o Cronos foi com a versão top de linha, Precision 1.8 automática, aqui apresentada.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 5,
+      "text" : "Nosso",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 6,
+      "end" : 14,
+      "text" : "primeiro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 15,
+      "end" : 22,
+      "text" : "contato",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 23,
+      "end" : 26,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 27,
+      "end" : 28,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 29,
+      "end" : 35,
+      "text" : "Cronos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t6",
+      "begin" : 36,
+      "end" : 39,
+      "text" : "foi",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t7",
+      "begin" : 40,
+      "end" : 43,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t8",
+      "begin" : 44,
+      "end" : 45,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t9",
+      "begin" : 46,
+      "end" : 52,
+      "text" : "versão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t10",
+      "begin" : 53,
+      "end" : 56,
+      "text" : "top",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t11",
+      "begin" : 57,
+      "end" : 59,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t12",
+      "begin" : 60,
+      "end" : 65,
+      "text" : "linha",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t13",
+      "begin" : 65,
+      "end" : 66,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t14",
+      "begin" : 67,
+      "end" : 76,
+      "text" : "Precision",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t15",
+      "begin" : 77,
+      "end" : 80,
+      "text" : "1.8",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t16",
+      "begin" : 81,
+      "end" : 91,
+      "text" : "automática",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t17",
+      "begin" : 91,
+      "end" : 92,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t18",
+      "begin" : 93,
+      "end" : 97,
+      "text" : "aqui",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t19",
+      "begin" : 98,
+      "end" : 109,
+      "text" : "apresentada",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t20",
+      "begin" : 109,
+      "end" : 110,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 111,
+    "end" : 228,
+    "text" : "Bem equipada, traz, de série, controles de estabilidade e tração e indicador de pressão dos pneus, e custa R$ 69.990.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 111,
+      "end" : 114,
+      "text" : "Bem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 115,
+      "end" : 123,
+      "text" : "equipada",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 123,
+      "end" : 124,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 125,
+      "end" : 129,
+      "text" : "traz",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 129,
+      "end" : 130,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 131,
+      "end" : 133,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 134,
+      "end" : 139,
+      "text" : "série",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 139,
+      "end" : 140,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 141,
+      "end" : 150,
+      "text" : "controles",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 151,
+      "end" : 153,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 154,
+      "end" : 166,
+      "text" : "estabilidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 167,
+      "end" : 168,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 169,
+      "end" : 175,
+      "text" : "tração",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 176,
+      "end" : 177,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t14",
+      "begin" : 178,
+      "end" : 187,
+      "text" : "indicador",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t15",
+      "begin" : 188,
+      "end" : 190,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t16",
+      "begin" : 191,
+      "end" : 198,
+      "text" : "pressão",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t17",
+      "begin" : 199,
+      "end" : 202,
+      "text" : "dos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t18",
+      "begin" : 203,
+      "end" : 208,
+      "text" : "pneus",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t19",
+      "begin" : 208,
+      "end" : 209,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t20",
+      "begin" : 210,
+      "end" : 211,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t21",
+      "begin" : 212,
+      "end" : 217,
+      "text" : "custa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t22",
+      "begin" : 218,
+      "end" : 220,
+      "text" : "R$",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t23",
+      "begin" : 221,
+      "end" : 227,
+      "text" : "69.990",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t24",
+      "begin" : 227,
+      "end" : 228,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s2",
+    "begin" : 229,
+    "end" : 440,
+    "text" : "Mas os pacotes com rodas aro 17, ar digital, couro, chave presencial, retrovisor interno eletrocrômico, airbags laterais e câmera de ré são opcionais que podem levar o preço final do Cronos a cerca de R$ 80.000.",
+    "tokens" : [ {
+      "id" : "s2-t0",
+      "begin" : 229,
+      "end" : 232,
+      "text" : "Mas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t1",
+      "begin" : 233,
+      "end" : 235,
+      "text" : "os",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t2",
+      "begin" : 236,
+      "end" : 243,
+      "text" : "pacotes",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t3",
+      "begin" : 244,
+      "end" : 247,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t4",
+      "begin" : 248,
+      "end" : 253,
+      "text" : "rodas",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t5",
+      "begin" : 254,
+      "end" : 257,
+      "text" : "aro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t6",
+      "begin" : 258,
+      "end" : 260,
+      "text" : "17",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t7",
+      "begin" : 260,
+      "end" : 261,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t8",
+      "begin" : 262,
+      "end" : 264,
+      "text" : "ar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t9",
+      "begin" : 265,
+      "end" : 272,
+      "text" : "digital",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t10",
+      "begin" : 272,
+      "end" : 273,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t11",
+      "begin" : 274,
+      "end" : 279,
+      "text" : "couro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t12",
+      "begin" : 279,
+      "end" : 280,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t13",
+      "begin" : 281,
+      "end" : 286,
+      "text" : "chave",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t14",
+      "begin" : 287,
+      "end" : 297,
+      "text" : "presencial",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t15",
+      "begin" : 297,
+      "end" : 298,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t16",
+      "begin" : 299,
+      "end" : 309,
+      "text" : "retrovisor",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t17",
+      "begin" : 310,
+      "end" : 317,
+      "text" : "interno",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t18",
+      "begin" : 318,
+      "end" : 331,
+      "text" : "eletrocrômico",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t19",
+      "begin" : 331,
+      "end" : 332,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t20",
+      "begin" : 333,
+      "end" : 340,
+      "text" : "airbags",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t21",
+      "begin" : 341,
+      "end" : 349,
+      "text" : "laterais",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t22",
+      "begin" : 350,
+      "end" : 351,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t23",
+      "begin" : 352,
+      "end" : 358,
+      "text" : "câmera",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t24",
+      "begin" : 359,
+      "end" : 361,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t25",
+      "begin" : 362,
+      "end" : 364,
+      "text" : "ré",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t26",
+      "begin" : 365,
+      "end" : 368,
+      "text" : "são",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t27",
+      "begin" : 369,
+      "end" : 378,
+      "text" : "opcionais",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t28",
+      "begin" : 379,
+      "end" : 382,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t29",
+      "begin" : 383,
+      "end" : 388,
+      "text" : "podem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t30",
+      "begin" : 389,
+      "end" : 394,
+      "text" : "levar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t31",
+      "begin" : 395,
+      "end" : 396,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t32",
+      "begin" : 397,
+      "end" : 402,
+      "text" : "preço",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t33",
+      "begin" : 403,
+      "end" : 408,
+      "text" : "final",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t34",
+      "begin" : 409,
+      "end" : 411,
+      "text" : "do",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t35",
+      "begin" : 412,
+      "end" : 418,
+      "text" : "Cronos",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t36",
+      "begin" : 419,
+      "end" : 420,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t37",
+      "begin" : 421,
+      "end" : 426,
+      "text" : "cerca",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t38",
+      "begin" : 427,
+      "end" : 429,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t39",
+      "begin" : 430,
+      "end" : 432,
+      "text" : "R$",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t40",
+      "begin" : 433,
+      "end" : 439,
+      "text" : "80.000",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t41",
+      "begin" : 439,
+      "end" : 440,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 29,
+    "end" : 35,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "SEGURANCA",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "SEGURANCA",
+    "begin" : 141,
+    "end" : 166,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 178,
+    "end" : 208,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 262,
+    "end" : 264,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 281,
+    "end" : 297,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m3",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 299,
+    "end" : 331,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m4",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 333,
+    "end" : 349,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m5",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "ACESSORIOS",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "ACESSORIOS",
+    "begin" : 352,
+    "end" : 364,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m6",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 412,
+    "end" : 418,
+    "inCoref" : false
+  } ],
+  "relations" : [ {
+    "id" : "s2-r1",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s2-m5", "s2-m6" ]
+  }, {
+    "id" : "s2-r2",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s2-m1", "s2-m6" ]
+  }, {
+    "id" : "s2-r3",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s2-m2", "s2-m6" ]
+  }, {
+    "id" : "s2-r4",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s2-m3", "s2-m6" ]
+  }, {
+    "id" : "s2-r5",
+    "properties" : { },
+    "type" : "de",
+    "args" : [ "s2-m4", "s2-m6" ]
+  } ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}

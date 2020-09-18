@@ -1,0 +1,469 @@
+{
+  "id" : "d14dfaa0-f5d1-11ea-946d-e76b3fc26918-92",
+  "name" : "train_93.txt",
+  "createdDate" : 0,
+  "version" : 3,
+  "text" : "A Fiat Toro é excepcional. É uma caminhonete fácil de estacionar em cidade grande, com estabilidade incrível. Principalmente em chuva é só ligar o 4x4 que você está seguro. A economia de combustível é outro ponto positivo a se destacar. Ela vem completa e não tem opcionais pra colocar. A partida remota é espetacular.\r\n",
+  "docLength" : 0,
+  "language" : "PT",
+  "status" : "SUBMITTED",
+  "modifiedDate" : 1600013578314,
+  "documentSet" : [ ],
+  "preannotation" : [ ],
+  "sentences" : [ {
+    "id" : "s0",
+    "begin" : 0,
+    "end" : 26,
+    "text" : "A Fiat Toro é excepcional.",
+    "tokens" : [ {
+      "id" : "s0-t0",
+      "begin" : 0,
+      "end" : 1,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t1",
+      "begin" : 2,
+      "end" : 6,
+      "text" : "Fiat",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t2",
+      "begin" : 7,
+      "end" : 11,
+      "text" : "Toro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t3",
+      "begin" : 12,
+      "end" : 13,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t4",
+      "begin" : 14,
+      "end" : 25,
+      "text" : "excepcional",
+      "whiteSpace" : false
+    }, {
+      "id" : "s0-t5",
+      "begin" : 25,
+      "end" : 26,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s1",
+    "begin" : 27,
+    "end" : 109,
+    "text" : "É uma caminhonete fácil de estacionar em cidade grande, com estabilidade incrível.",
+    "tokens" : [ {
+      "id" : "s1-t0",
+      "begin" : 27,
+      "end" : 28,
+      "text" : "É",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t1",
+      "begin" : 29,
+      "end" : 32,
+      "text" : "uma",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t2",
+      "begin" : 33,
+      "end" : 44,
+      "text" : "caminhonete",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t3",
+      "begin" : 45,
+      "end" : 50,
+      "text" : "fácil",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t4",
+      "begin" : 51,
+      "end" : 53,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t5",
+      "begin" : 54,
+      "end" : 64,
+      "text" : "estacionar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t6",
+      "begin" : 65,
+      "end" : 67,
+      "text" : "em",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t7",
+      "begin" : 68,
+      "end" : 74,
+      "text" : "cidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t8",
+      "begin" : 75,
+      "end" : 81,
+      "text" : "grande",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t9",
+      "begin" : 81,
+      "end" : 82,
+      "text" : ",",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t10",
+      "begin" : 83,
+      "end" : 86,
+      "text" : "com",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t11",
+      "begin" : 87,
+      "end" : 99,
+      "text" : "estabilidade",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t12",
+      "begin" : 100,
+      "end" : 108,
+      "text" : "incrível",
+      "whiteSpace" : false
+    }, {
+      "id" : "s1-t13",
+      "begin" : 108,
+      "end" : 109,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s2",
+    "begin" : 110,
+    "end" : 172,
+    "text" : "Principalmente em chuva é só ligar o 4x4 que você está seguro.",
+    "tokens" : [ {
+      "id" : "s2-t0",
+      "begin" : 110,
+      "end" : 124,
+      "text" : "Principalmente",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t1",
+      "begin" : 125,
+      "end" : 127,
+      "text" : "em",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t2",
+      "begin" : 128,
+      "end" : 133,
+      "text" : "chuva",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t3",
+      "begin" : 134,
+      "end" : 135,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t4",
+      "begin" : 136,
+      "end" : 138,
+      "text" : "só",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t5",
+      "begin" : 139,
+      "end" : 144,
+      "text" : "ligar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t6",
+      "begin" : 145,
+      "end" : 146,
+      "text" : "o",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t7",
+      "begin" : 147,
+      "end" : 150,
+      "text" : "4x4",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t8",
+      "begin" : 151,
+      "end" : 154,
+      "text" : "que",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t9",
+      "begin" : 155,
+      "end" : 159,
+      "text" : "você",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t10",
+      "begin" : 160,
+      "end" : 164,
+      "text" : "está",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t11",
+      "begin" : 165,
+      "end" : 171,
+      "text" : "seguro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s2-t12",
+      "begin" : 171,
+      "end" : 172,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s3",
+    "begin" : 173,
+    "end" : 236,
+    "text" : "A economia de combustível é outro ponto positivo a se destacar.",
+    "tokens" : [ {
+      "id" : "s3-t0",
+      "begin" : 173,
+      "end" : 174,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t1",
+      "begin" : 175,
+      "end" : 183,
+      "text" : "economia",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t2",
+      "begin" : 184,
+      "end" : 186,
+      "text" : "de",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t3",
+      "begin" : 187,
+      "end" : 198,
+      "text" : "combustível",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t4",
+      "begin" : 199,
+      "end" : 200,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t5",
+      "begin" : 201,
+      "end" : 206,
+      "text" : "outro",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t6",
+      "begin" : 207,
+      "end" : 212,
+      "text" : "ponto",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t7",
+      "begin" : 213,
+      "end" : 221,
+      "text" : "positivo",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t8",
+      "begin" : 222,
+      "end" : 223,
+      "text" : "a",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t9",
+      "begin" : 224,
+      "end" : 226,
+      "text" : "se",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t10",
+      "begin" : 227,
+      "end" : 235,
+      "text" : "destacar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s3-t11",
+      "begin" : 235,
+      "end" : 236,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s4",
+    "begin" : 237,
+    "end" : 286,
+    "text" : "Ela vem completa e não tem opcionais pra colocar.",
+    "tokens" : [ {
+      "id" : "s4-t0",
+      "begin" : 237,
+      "end" : 240,
+      "text" : "Ela",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t1",
+      "begin" : 241,
+      "end" : 244,
+      "text" : "vem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t2",
+      "begin" : 245,
+      "end" : 253,
+      "text" : "completa",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t3",
+      "begin" : 254,
+      "end" : 255,
+      "text" : "e",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t4",
+      "begin" : 256,
+      "end" : 259,
+      "text" : "não",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t5",
+      "begin" : 260,
+      "end" : 263,
+      "text" : "tem",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t6",
+      "begin" : 264,
+      "end" : 273,
+      "text" : "opcionais",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t7",
+      "begin" : 274,
+      "end" : 277,
+      "text" : "pra",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t8",
+      "begin" : 278,
+      "end" : 285,
+      "text" : "colocar",
+      "whiteSpace" : false
+    }, {
+      "id" : "s4-t9",
+      "begin" : 285,
+      "end" : 286,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  }, {
+    "id" : "s5",
+    "begin" : 287,
+    "end" : 318,
+    "text" : "A partida remota é espetacular.",
+    "tokens" : [ {
+      "id" : "s5-t0",
+      "begin" : 287,
+      "end" : 288,
+      "text" : "A",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t1",
+      "begin" : 289,
+      "end" : 296,
+      "text" : "partida",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t2",
+      "begin" : 297,
+      "end" : 303,
+      "text" : "remota",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t3",
+      "begin" : 304,
+      "end" : 305,
+      "text" : "é",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t4",
+      "begin" : 306,
+      "end" : 317,
+      "text" : "espetacular",
+      "whiteSpace" : false
+    }, {
+      "id" : "s5-t5",
+      "begin" : 317,
+      "end" : 318,
+      "text" : ".",
+      "whiteSpace" : false
+    } ]
+  } ],
+  "mentions" : [ {
+    "id" : "s0-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "MODELO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "MODELO",
+    "begin" : 7,
+    "end" : 11,
+    "inCoref" : false
+  }, {
+    "id" : "s1-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "SEGURANCA",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "SEGURANCA",
+    "begin" : 87,
+    "end" : 99,
+    "inCoref" : false
+  }, {
+    "id" : "s2-m2",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "DESIGN",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "DESIGN",
+    "begin" : 147,
+    "end" : 150,
+    "inCoref" : false
+  }, {
+    "id" : "s3-m1",
+    "properties" : {
+      "SIRE_MENTION_ROLE" : "CONSUMO",
+      "SIRE_ENTITY_SUBTYPE" : "NONE",
+      "SIRE_MENTION_TYPE" : "NONE",
+      "SIRE_MENTION_CLASS" : "SPC"
+    },
+    "type" : "CONSUMO",
+    "begin" : 175,
+    "end" : 183,
+    "inCoref" : false
+  } ],
+  "relations" : [ ],
+  "corefs" : [ ],
+  "typeResolved" : true,
+  "userResolved" : false
+}
